@@ -1,31 +1,31 @@
-1241
+1242
 
-Wednesday, September 8, 2021 7:55:34 AM
+Wednesday, September 8, 2021 7:59:29 AM
 
 
-Pinging 149.112.112.112 with 1241 bytes of data:
-Reply from 149.112.112.112: bytes=1241 time=46ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=43ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=62ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=38ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=54ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=245ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=181ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=43ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=41ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=40ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=59ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=56ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=55ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=61ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=491ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=45ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=42ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=47ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=52ms TTL=53
-Reply from 149.112.112.112: bytes=1241 time=101ms TTL=53
+Pinging 149.112.112.112 with 1242 bytes of data:
+Reply from 149.112.112.112: bytes=1242 time=42ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=40ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=40ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=44ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=54ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=48ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=48ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=47ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=54ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=43ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=41ms TTL=53
+Reply from 149.112.112.112: bytes=1242 time=44ms TTL=53
+General failure.
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 38ms, Maximum = 491ms, Average = 90ms
+    Minimum = 40ms, Maximum = 54ms, Average = 45ms
