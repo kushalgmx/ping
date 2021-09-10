@@ -1,31 +1,31 @@
-100
+101
 
-Friday, September 10, 2021 5:58:44 PM
+Friday, September 10, 2021 6:02:34 PM
 
 
-Pinging 149.112.112.112 with 100 bytes of data:
-Reply from 149.112.112.112: bytes=100 time=43ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=36ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=47ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=41ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=108ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=138ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=148ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=134ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=118ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=151ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=37ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=37ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=36ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=36ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=100 time=38ms TTL=53
+Pinging 149.112.112.112 with 101 bytes of data:
+Reply from 149.112.112.112: bytes=101 time=36ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=36ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=46ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=39ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=39ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=36ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=37ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=37ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=43ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=50ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=37ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=36ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=36ms TTL=53
+Reply from 149.112.112.112: bytes=101 time=38ms TTL=53
 
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 151ms, Average = 67ms
+    Minimum = 36ms, Maximum = 50ms, Average = 38ms
