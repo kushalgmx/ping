@@ -1,9 +1,9 @@
-11
+12
 
-Friday, September 10, 2021 12:00:46 PM
+Friday, September 10, 2021 12:19:28 PM
 
 
-Pinging 8.26.56.26 with 11 bytes of data:
+Pinging 8.26.56.26 with 12 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,19 +11,21 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 8.26.56.26: bytes=12 time=33ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=35ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=36ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=34ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=35ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=34ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=35ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=35ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=37ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=33ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=34ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=33ms TTL=50
+Reply from 8.26.56.26: bytes=12 time=36ms TTL=50
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 33ms, Maximum = 37ms, Average = 34ms
