@@ -1,31 +1,31 @@
-5
+6
 
-Friday, September 10, 2021 11:22:53 AM
+Friday, September 10, 2021 11:27:12 AM
 
 
-Pinging 8.26.56.26 with 5 bytes of data:
-Reply from 8.26.56.26: bytes=5 time=84ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=96ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=93ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=83ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=100ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=493ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=422ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=102ms TTL=54
+Pinging 8.26.56.26 with 6 bytes of data:
+Reply from 8.26.56.26: bytes=6 time=2429ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=1505ms TTL=54
 Request timed out.
-Reply from 8.26.56.26: bytes=5 time=173ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=84ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=125ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=86ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=113ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=393ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=100ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=103ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=242ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=131ms TTL=54
-Reply from 8.26.56.26: bytes=5 time=86ms TTL=54
+Request timed out.
+Reply from 8.26.56.26: bytes=6 time=3917ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=2538ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=3376ms TTL=54
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=6 time=1765ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=1612ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=2997ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=2515ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=2537ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=664ms TTL=54
+Reply from 8.26.56.26: bytes=6 time=144ms TTL=54
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 83ms, Maximum = 493ms, Average = 163ms
+    Minimum = 144ms, Maximum = 3917ms, Average = 2166ms
