@@ -1,31 +1,29 @@
-10
+11
 
-Friday, September 10, 2021 11:45:12 AM
+Friday, September 10, 2021 11:57:28 AM
 
 
-Pinging 208.67.222.222 with 10 bytes of data:
-Reply from 208.67.222.222: bytes=10 time=1381ms TTL=58
+Pinging 208.67.222.222 with 11 bytes of data:
 Request timed out.
-Reply from 208.67.222.222: bytes=10 time=1970ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=1445ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=1145ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=1213ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=747ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=767ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=1300ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=840ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=324ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=316ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=94ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=89ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=105ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=141ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=91ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=91ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=109ms TTL=58
-Reply from 208.67.222.222: bytes=10 time=145ms TTL=58
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 89ms, Maximum = 1970ms, Average = 648ms
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),

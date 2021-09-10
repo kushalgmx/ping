@@ -1,31 +1,29 @@
-10
+11
 
-Friday, September 10, 2021 11:44:51 AM
+Friday, September 10, 2021 11:55:48 AM
 
 
-Pinging 149.112.112.112 with 10 bytes of data:
-Reply from 149.112.112.112: bytes=10 time=114ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=118ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=110ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=210ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=208ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=179ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=169ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=141ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=117ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=218ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=178ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=137ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=127ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=187ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=123ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=852ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=663ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=185ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=199ms TTL=58
-Reply from 149.112.112.112: bytes=10 time=896ms TTL=58
+Pinging 149.112.112.112 with 11 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 110ms, Maximum = 896ms, Average = 256ms
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
