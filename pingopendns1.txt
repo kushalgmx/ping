@@ -1,31 +1,31 @@
-4
+5
 
-Friday, September 10, 2021 11:17:29 AM
+Friday, September 10, 2021 11:22:00 AM
 
 
-Pinging 208.67.222.222 with 4 bytes of data:
-Reply from 208.67.222.222: bytes=4 time=118ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=301ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=685ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=508ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=1071ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=366ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=290ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=148ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=170ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=104ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=113ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=94ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=88ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=92ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=132ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=109ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=81ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=91ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=157ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=86ms TTL=58
+Pinging 208.67.222.222 with 5 bytes of data:
+Reply from 208.67.222.222: bytes=5 time=92ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=133ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=334ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=156ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=147ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=112ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=94ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=665ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=112ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=113ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=303ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=106ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=119ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=211ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=261ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=112ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=95ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=167ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=91ms TTL=58
+Reply from 208.67.222.222: bytes=5 time=97ms TTL=58
 
 Ping statistics for 208.67.222.222:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 81ms, Maximum = 1071ms, Average = 240ms
+    Minimum = 91ms, Maximum = 665ms, Average = 176ms
