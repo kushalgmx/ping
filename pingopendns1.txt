@@ -1,31 +1,31 @@
-6
+7
 
-Monday, September 13, 2021 10:20:04 AM
+Monday, September 13, 2021 10:23:55 AM
 
 
-Pinging 208.67.222.222 with 6 bytes of data:
-Reply from 208.67.222.222: bytes=6 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=14ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=9ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=27ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=14ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=14ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=15ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=19ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=16ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=15ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=6 time=13ms TTL=56
+Pinging 208.67.222.222 with 7 bytes of data:
+PING: transmit failed. General failure. 
+Reply from 208.67.222.222: bytes=7 time=15ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=27ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=14ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=25ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=14ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=15ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=14ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=16ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=15ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=15ms TTL=59
+Reply from 208.67.222.222: bytes=7 time=13ms TTL=59
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 9ms, Maximum = 27ms, Average = 13ms
+    Minimum = 13ms, Maximum = 27ms, Average = 15ms
