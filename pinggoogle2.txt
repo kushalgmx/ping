@@ -1,31 +1,31 @@
-16
+17
 
-Monday, September 13, 2021 12:33:36 PM
+Monday, September 13, 2021 12:37:34 PM
 
 
-Pinging 8.8.4.4 with 16 bytes of data:
-Reply from 8.8.4.4: bytes=16 time=12ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=12ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=12ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=17ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=10ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=12ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=11ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=14ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=20ms TTL=115
+Pinging 8.8.4.4 with 17 bytes of data:
+Reply from 8.8.4.4: bytes=17 time=15ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=13ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=9ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=15ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=15ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=13ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=11ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=10ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=11ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
 Request timed out.
-Reply from 8.8.4.4: bytes=16 time=59ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=13ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=13ms TTL=115
-Reply from 8.8.4.4: bytes=16 time=12ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=3083ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=32ms TTL=115
+Reply from 8.8.4.4: bytes=17 time=12ms TTL=115
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 59ms, Average = 14ms
+    Minimum = 9ms, Maximum = 3083ms, Average = 174ms
