@@ -1,31 +1,31 @@
-7
+8
 
-Monday, September 13, 2021 10:23:36 AM
+Monday, September 13, 2021 10:27:31 AM
 
 
-Pinging 149.112.112.112 with 7 bytes of data:
-Reply from 149.112.112.112: bytes=7 time=37ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=36ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=38ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=38ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=44ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=54ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=77ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=108ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=70ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=91ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=39ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=38ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=38ms TTL=53
-Reply from 149.112.112.112: bytes=7 time=39ms TTL=53
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 149.112.112.112 with 8 bytes of data:
+Reply from 149.112.112.112: bytes=8 time=42ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=41ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=41ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=45ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=45ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=42ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=40ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=45ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=40ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=43ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=41ms TTL=58
+Reply from 149.112.112.112: bytes=8 time=42ms TTL=58
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 108ms, Average = 52ms
+    Minimum = 40ms, Maximum = 45ms, Average = 42ms
