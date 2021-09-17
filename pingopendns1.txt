@@ -1,31 +1,31 @@
-821
+822
 
-Friday, September 17, 2021 11:13:10 AM
+Friday, September 17, 2021 11:17:06 AM
 
 
-Pinging 208.67.222.222 with 821 bytes of data:
-Reply from 208.67.222.222: bytes=821 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=20ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=22ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=11ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=13ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=12ms TTL=56
-Reply from 208.67.222.222: bytes=821 time=15ms TTL=56
+Pinging 208.67.222.222 with 822 bytes of data:
+Reply from 208.67.222.222: bytes=822 time=14ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=22ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=13ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=19ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=12ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=14ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=13ms TTL=56
+Reply from 208.67.222.222: bytes=822 time=11ms TTL=56
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 208.67.222.222: bytes=822 time=33ms TTL=56
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 174.51.38.207: Destination host unreachable.
+Request timed out.
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 22ms, Average = 13ms
+    Minimum = 11ms, Maximum = 33ms, Average = 16ms
