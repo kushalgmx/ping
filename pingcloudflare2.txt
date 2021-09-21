@@ -1,31 +1,29 @@
-794
+795
 
-Tuesday, September 21, 2021 3:19:39 AM
+Tuesday, September 21, 2021 3:24:22 AM
 
 
-Pinging 1.0.0.1 with 794 bytes of data:
-Reply from 1.0.0.1: bytes=794 time=12ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=14ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=10ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=16ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=11ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=14ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=11ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=12ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=13ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=11ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=13ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=16ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=15ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=23ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=16ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=14ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=14ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=10ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=14ms TTL=56
-Reply from 1.0.0.1: bytes=794 time=14ms TTL=56
+Pinging 1.0.0.1 with 795 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 23ms, Average = 13ms
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),

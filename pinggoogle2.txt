@@ -1,31 +1,29 @@
-794
+795
 
-Tuesday, September 21, 2021 3:20:18 AM
+Tuesday, September 21, 2021 3:25:25 AM
 
 
-Pinging 8.8.4.4 with 794 bytes of data:
-Reply from 8.8.4.4: bytes=68 (sent 794) time=15ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=19ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=16ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=16ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=15ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=16ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=14ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=11ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=13ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=13ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=10ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=11ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=12ms TTL=115
-Reply from 8.8.4.4: bytes=68 (sent 794) time=11ms TTL=115
+Pinging 8.8.4.4 with 795 bytes of data:
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.8.4.4:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 19ms, Average = 13ms
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
