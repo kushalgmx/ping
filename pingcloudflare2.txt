@@ -1,31 +1,31 @@
-1717
+1718
 
-Friday, September 24, 2021 12:56:57 PM
+Friday, September 24, 2021 1:07:34 PM
 
 
-Pinging 1.0.0.1 with 1717 bytes of data:
+Pinging 1.0.0.1 with 1718 bytes of data:
+Request timed out.
+Reply from 1.0.0.1: bytes=1718 time=105ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=93ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=97ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=91ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=95ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=99ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=96ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=93ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=96ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=96ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=95ms TTL=58
 Request timed out.
 Request timed out.
-Reply from 1.0.0.1: bytes=1717 time=96ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=94ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=96ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=93ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=93ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=94ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=97ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=96ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=99ms TTL=58
 Request timed out.
 Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=1717 time=95ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=101ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=97ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=125ms TTL=58
-Reply from 1.0.0.1: bytes=1717 time=99ms TTL=58
-Request timed out.
+Reply from 1.0.0.1: bytes=1718 time=97ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=92ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=92ms TTL=58
+Reply from 1.0.0.1: bytes=1718 time=115ms TTL=58
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 93ms, Maximum = 125ms, Average = 98ms
+    Minimum = 91ms, Maximum = 115ms, Average = 96ms
