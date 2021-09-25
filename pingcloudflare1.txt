@@ -1,31 +1,31 @@
-1770
+1771
 
-Friday, September 24, 2021 9:18:38 PM
+Friday, September 24, 2021 9:27:48 PM
 
 
-Pinging 1.1.1.1 with 1770 bytes of data:
-Reply from 1.1.1.1: bytes=1770 time=92ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=89ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=94ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=96ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=89ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=98ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=90ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=91ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=92ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=89ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=96ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=90ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=94ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=161ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=89ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=90ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=104ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=105ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=91ms TTL=57
-Reply from 1.1.1.1: bytes=1770 time=89ms TTL=57
+Pinging 1.1.1.1 with 1771 bytes of data:
+Request timed out.
+Reply from 1.1.1.1: bytes=1771 time=91ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=89ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=89ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=93ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=92ms TTL=57
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1771 time=90ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=107ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=89ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=90ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=88ms TTL=57
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1771 time=89ms TTL=57
+Reply from 1.1.1.1: bytes=1771 time=90ms TTL=57
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 89ms, Maximum = 161ms, Average = 96ms
+    Minimum = 88ms, Maximum = 107ms, Average = 91ms
