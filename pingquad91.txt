@@ -1,31 +1,31 @@
-40
+41
 
-Sunday, October 10, 2021 12:29:06 AM
+Sunday, October 10, 2021 12:33:11 AM
 
 
-Pinging 9.9.9.9 with 40 bytes of data:
-Reply from 9.9.9.9: bytes=40 time=71ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=86ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=92ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=108ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=118ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=128ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=136ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=159ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=79ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=112ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=112ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=131ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=142ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=154ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=166ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=83ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=96ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=62ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=50ms TTL=53
-Reply from 9.9.9.9: bytes=40 time=70ms TTL=53
+Pinging 9.9.9.9 with 41 bytes of data:
+Reply from 9.9.9.9: bytes=41 time=44ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=164ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=69ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=39ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=83ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=60ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=33ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=37ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=54ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=56ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=93ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=53ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=42ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=47ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=39ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=79ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=31ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=45ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=58ms TTL=53
+Reply from 9.9.9.9: bytes=41 time=58ms TTL=53
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 50ms, Maximum = 166ms, Average = 107ms
+    Minimum = 31ms, Maximum = 164ms, Average = 59ms
