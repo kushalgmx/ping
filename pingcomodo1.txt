@@ -1,31 +1,31 @@
-64
+65
 
-Monday, October 18, 2021 10:50:12 AM
+Monday, October 18, 2021 10:54:04 AM
 
 
-Pinging 8.26.56.26 with 64 bytes of data:
-Reply from 8.26.56.26: bytes=64 time=83ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=37ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=116ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=133ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=40ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=38ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=73ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=36ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=39ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=104ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=35ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=123ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=131ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=35ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=65ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=188ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=197ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=114ms TTL=49
-Reply from 8.26.56.26: bytes=64 time=132ms TTL=49
+Pinging 8.26.56.26 with 65 bytes of data:
+Reply from 8.26.56.26: bytes=65 time=38ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=58ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=39ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=34ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=34ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=43ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=38ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=35ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=35ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=45ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=34ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=34ms TTL=49
+Reply from 8.26.56.26: bytes=65 time=61ms TTL=49
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 197ms, Average = 88ms
+    Minimum = 34ms, Maximum = 61ms, Average = 39ms
