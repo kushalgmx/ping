@@ -1,31 +1,31 @@
-210
+211
 
-Monday, October 18, 2021 8:13:36 PM
+Monday, October 18, 2021 8:17:27 PM
 
 
-Pinging 8.8.4.4 with 210 bytes of data:
-Reply from 8.8.4.4: bytes=68 (sent 210) time=12ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=16ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=23ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=15ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=20ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=14ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=17ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=39ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=14ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=53ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=207ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=16ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=64ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=111ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=37ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=24ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=33ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=26ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=13ms TTL=59
-Reply from 8.8.4.4: bytes=68 (sent 210) time=14ms TTL=59
+Pinging 8.8.4.4 with 211 bytes of data:
+Reply from 8.8.4.4: bytes=68 (sent 211) time=16ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=52ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=28ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=19ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=16ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=16ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=18ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=15ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=14ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=13ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=20ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=14ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=13ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=60ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=15ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=48ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=20ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=74ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=35ms TTL=59
+Reply from 8.8.4.4: bytes=68 (sent 211) time=24ms TTL=59
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 207ms, Average = 38ms
+    Minimum = 13ms, Maximum = 74ms, Average = 26ms
