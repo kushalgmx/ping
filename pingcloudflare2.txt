@@ -1,31 +1,31 @@
-1385
+1386
 
-Tuesday, October 26, 2021 5:27:01 AM
+Tuesday, October 26, 2021 5:36:42 AM
 
 
-Pinging 1.0.0.1 with 1385 bytes of data:
-Reply from 1.0.0.1: bytes=1385 time=45ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=74ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=90ms TTL=59
+Pinging 1.0.0.1 with 1386 bytes of data:
 Request timed out.
-Reply from 1.0.0.1: bytes=1385 time=34ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=31ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=94ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=29ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=29ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=37ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=45ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=30ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=109ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=34ms TTL=59
 Request timed out.
-Reply from 1.0.0.1: bytes=1385 time=35ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=31ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=31ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=30ms TTL=59
 Request timed out.
-Reply from 1.0.0.1: bytes=1385 time=112ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=72ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=31ms TTL=59
 Request timed out.
-Reply from 1.0.0.1: bytes=1385 time=127ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=31ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=35ms TTL=59
-Reply from 1.0.0.1: bytes=1385 time=30ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=37ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=207ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=41ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=136ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=38ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=67ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=28ms TTL=59
+Reply from 1.0.0.1: bytes=1386 time=30ms TTL=59
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 29ms, Maximum = 127ms, Average = 56ms
+    Minimum = 28ms, Maximum = 207ms, Average = 58ms
