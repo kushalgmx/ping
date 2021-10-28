@@ -1,31 +1,31 @@
-1636
+1637
 
-Wednesday, October 27, 2021 8:01:28 PM
+Wednesday, October 27, 2021 8:11:37 PM
 
 
-Pinging 1.1.1.1 with 1636 bytes of data:
-Reply from 1.1.1.1: bytes=1636 time=18ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=25ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=13ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=13ms TTL=56
-Request timed out.
-Reply from 1.1.1.1: bytes=1636 time=19ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=25ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=13ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=17ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=183ms TTL=56
+Pinging 1.1.1.1 with 1637 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=1636 time=42ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=16ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=22ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=17ms TTL=56
-Reply from 1.1.1.1: bytes=1636 time=87ms TTL=56
 Request timed out.
 Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1637 time=15ms TTL=56
+Reply from 1.1.1.1: bytes=1637 time=20ms TTL=56
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1637 time=14ms TTL=56
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1637 time=15ms TTL=56
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
+    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 183ms, Average = 36ms
+    Minimum = 14ms, Maximum = 20ms, Average = 16ms
