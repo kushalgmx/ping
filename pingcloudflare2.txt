@@ -1,31 +1,31 @@
-1673
+1674
 
-Thursday, October 28, 2021 2:33:06 AM
+Thursday, October 28, 2021 2:43:43 AM
 
 
-Pinging 1.0.0.1 with 1673 bytes of data:
-Reply from 1.0.0.1: bytes=1673 time=12ms TTL=55
+Pinging 1.0.0.1 with 1674 bytes of data:
+Reply from 1.0.0.1: bytes=1674 time=23ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=73ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=53ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=20ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=29ms TTL=55
+Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=1674 time=30ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=1674 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=13ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.0.0.1: bytes=1673 time=53ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=20ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=14ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=122ms TTL=55
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=1673 time=14ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=27ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=12ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=28ms TTL=55
-Reply from 1.0.0.1: bytes=1673 time=76ms TTL=55
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.0.0.1: bytes=1674 time=24ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=137ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=56ms TTL=55
+Reply from 1.0.0.1: bytes=1674 time=52ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 122ms, Average = 37ms
+    Minimum = 12ms, Maximum = 137ms, Average = 39ms

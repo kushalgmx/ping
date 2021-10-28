@@ -1,31 +1,31 @@
-1673
+1674
 
-Thursday, October 28, 2021 2:31:51 AM
+Thursday, October 28, 2021 2:42:37 AM
 
 
-Pinging 1.1.1.1 with 1673 bytes of data:
-Reply from 1.1.1.1: bytes=1673 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=1673 time=17ms TTL=55
-Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=1673 time=24ms TTL=55
-Request timed out.
-Reply from 1.1.1.1: bytes=1673 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=1673 time=16ms TTL=55
+Pinging 1.1.1.1 with 1674 bytes of data:
+Reply from 1.1.1.1: bytes=1674 time=55ms TTL=55
+Reply from 1.1.1.1: bytes=1674 time=22ms TTL=55
+Reply from 1.1.1.1: bytes=1674 time=57ms TTL=55
+Reply from 1.1.1.1: bytes=1674 time=59ms TTL=55
+Reply from 1.1.1.1: bytes=1674 time=17ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=1673 time=51ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=1674 time=147ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 1.1.1.1: bytes=1674 time=27ms TTL=55
+Reply from 1.1.1.1: bytes=1674 time=28ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 51ms, Average = 23ms
+    Minimum = 17ms, Maximum = 147ms, Average = 51ms
