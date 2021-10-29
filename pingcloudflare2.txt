@@ -1,31 +1,31 @@
-1831
+1832
 
-Friday, October 29, 2021 3:16:41 AM
+Friday, October 29, 2021 3:26:22 AM
 
 
-Pinging 1.0.0.1 with 1831 bytes of data:
+Pinging 1.0.0.1 with 1832 bytes of data:
+Reply from 1.0.0.1: bytes=1832 time=16ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=24ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=15ms TTL=56
+Request timed out.
+Reply from 1.0.0.1: bytes=1832 time=17ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=23ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=29ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=19ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=16ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=16ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=18ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=15ms TTL=56
 Request timed out.
 Request timed out.
+Reply from 1.0.0.1: bytes=1832 time=19ms TTL=56
 Request timed out.
-Reply from 1.0.0.1: bytes=1831 time=19ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=12ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=19ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=17ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=23ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=22ms TTL=56
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=1831 time=27ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=18ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=15ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=25ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=17ms TTL=56
-Reply from 1.0.0.1: bytes=1831 time=15ms TTL=56
-Request timed out.
-Request timed out.
+Reply from 1.0.0.1: bytes=1832 time=13ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=14ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=19ms TTL=56
+Reply from 1.0.0.1: bytes=1832 time=17ms TTL=56
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 27ms, Average = 19ms
+    Minimum = 13ms, Maximum = 29ms, Average = 18ms
