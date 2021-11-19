@@ -1,31 +1,31 @@
-410
+411
 
-Friday, November 19, 2021 11:33:38 AM
+Friday, November 19, 2021 11:38:25 AM
 
 
-Pinging 208.67.222.222 with 410 bytes of data:
-Reply from 208.67.222.222: bytes=410 time=75ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=32ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=14ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=27ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=24ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=45ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=22ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=65ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=29ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=17ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=27ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=14ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=27ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=36ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=20ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=22ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=38ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=15ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=15ms TTL=60
-Reply from 208.67.222.222: bytes=410 time=23ms TTL=60
+Pinging 208.67.222.222 with 411 bytes of data:
+Reply from 208.67.222.222: bytes=411 time=23ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=43ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=15ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=23ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=1420ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=91ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=13ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=67ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=82ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=50ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=34ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=19ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=25ms TTL=60
+Request timed out.
+Request timed out.
+Reply from 208.67.222.222: bytes=411 time=1549ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=19ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=36ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=14ms TTL=60
+Reply from 208.67.222.222: bytes=411 time=20ms TTL=60
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 75ms, Average = 29ms
+    Minimum = 13ms, Maximum = 1549ms, Average = 196ms
