@@ -1,31 +1,31 @@
-413
+414
 
-Friday, November 19, 2021 11:44:57 AM
+Friday, November 19, 2021 11:49:03 AM
 
 
-Pinging 1.1.1.1 with 413 bytes of data:
-Reply from 1.1.1.1: bytes=413 time=44ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=59ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=33ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=32ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=31ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=31ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=32ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=36ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=73ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=34ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=32ms TTL=59
+Pinging 1.1.1.1 with 414 bytes of data:
+Reply from 1.1.1.1: bytes=414 time=33ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=28ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=30ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=25ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=28ms TTL=59
 Request timed out.
-Reply from 1.1.1.1: bytes=413 time=30ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=27ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=32ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=28ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=62ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=31ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=42ms TTL=59
-Reply from 1.1.1.1: bytes=413 time=39ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=3532ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=27ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=49ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=28ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=35ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=42ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=47ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=30ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=42ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=30ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=45ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=37ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=88ms TTL=59
+Reply from 1.1.1.1: bytes=414 time=79ms TTL=59
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 27ms, Maximum = 73ms, Average = 38ms
+    Minimum = 25ms, Maximum = 3532ms, Average = 223ms
