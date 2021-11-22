@@ -1,31 +1,31 @@
-22
+23
 
-Sunday, November 21, 2021 9:18:12 PM
+Sunday, November 21, 2021 9:22:10 PM
 
 
-Pinging 8.8.8.8 with 22 bytes of data:
-Reply from 8.8.8.8: bytes=22 time=1346ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=354ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=207ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=683ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=516ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=210ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=2362ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=535ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=222ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=56ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=99ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=1765ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=708ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=1525ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=442ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=263ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=337ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=299ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=15ms TTL=117
-Reply from 8.8.8.8: bytes=22 time=26ms TTL=117
+Pinging 8.8.8.8 with 23 bytes of data:
+Reply from 8.8.8.8: bytes=23 time=86ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=55ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=29ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=35ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=20ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=34ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=316ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=19ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=314ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=38ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=575ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=443ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=232ms TTL=117
+Request timed out.
+Reply from 8.8.8.8: bytes=23 time=237ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=761ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=906ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=24ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=26ms TTL=117
+Reply from 8.8.8.8: bytes=23 time=14ms TTL=117
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 2362ms, Average = 598ms
+    Minimum = 14ms, Maximum = 906ms, Average = 219ms
