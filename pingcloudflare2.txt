@@ -1,31 +1,31 @@
-185
+186
 
-Monday, November 22, 2021 7:59:18 AM
+Monday, November 22, 2021 4:21:34 PM
 
 
-Pinging 1.0.0.1 with 185 bytes of data:
-Reply from 1.0.0.1: bytes=185 time=11ms TTL=55
-General failure.
-Request timed out.
+Pinging 1.0.0.1 with 186 bytes of data:
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Request timed out.
-Reply from 1.0.0.1: bytes=185 time=20ms TTL=55
-Reply from 1.0.0.1: bytes=185 time=18ms TTL=55
-Reply from 1.0.0.1: bytes=185 time=28ms TTL=55
-Reply from 1.0.0.1: bytes=185 time=39ms TTL=55
-Reply from 1.0.0.1: bytes=185 time=37ms TTL=55
-Reply from 1.0.0.1: bytes=185 time=42ms TTL=55
-Reply from 1.0.0.1: bytes=185 time=76ms TTL=55
-Request timed out.
-Reply from 1.0.0.1: bytes=185 time=330ms TTL=55
+Reply from 1.0.0.1: bytes=186 time=43ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=58ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=30ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=378ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=43ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=29ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=46ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=36ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=29ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=30ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=30ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=29ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=27ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=39ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=36ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=50ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=29ms TTL=59
+Reply from 1.0.0.1: bytes=186 time=30ms TTL=59
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 330ms, Average = 66ms
+    Minimum = 27ms, Maximum = 378ms, Average = 55ms
