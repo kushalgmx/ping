@@ -1,31 +1,31 @@
-321
+322
 
-Tuesday, November 23, 2021 1:01:43 AM
+Tuesday, November 23, 2021 1:05:38 AM
 
 
-Pinging 192.168.1.1 with 321 bytes of data:
-Reply from 192.168.1.1: bytes=321 time=5ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=4ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=16ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=10ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=4ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=14ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=4ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=10ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=8ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=38ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=14ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=17ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=15ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=8ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=321 time=3ms TTL=64
+Pinging 192.168.1.1 with 322 bytes of data:
+Reply from 192.168.1.103: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.1: bytes=322 time=2562ms TTL=64
+Reply from 192.168.1.1: bytes=322 time=1115ms TTL=64
+Reply from 192.168.1.1: bytes=322 time=520ms TTL=64
+Reply from 192.168.1.1: bytes=322 time=43ms TTL=64
+Reply from 192.168.1.1: bytes=322 time=8ms TTL=64
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
 
 Ping statistics for 192.168.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 2ms, Maximum = 38ms, Average = 9ms
+    Minimum = 8ms, Maximum = 2562ms, Average = 849ms
