@@ -1,31 +1,31 @@
-622
+623
 
-Tuesday, November 23, 2021 8:34:06 PM
+Tuesday, November 23, 2021 8:38:04 PM
 
 
-Pinging 1.1.1.1 with 622 bytes of data:
-Reply from 1.1.1.1: bytes=622 time=73ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=58ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=71ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=58ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=95ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=32ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=68ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=110ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=60ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=90ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=68ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=79ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=53ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=95ms TTL=55
+Pinging 1.1.1.1 with 623 bytes of data:
+Reply from 1.1.1.1: bytes=623 time=87ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=72ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=38ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=52ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=52ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=63ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=65ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=84ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=129ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=56ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=131ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=64ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=88ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=66ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=622 time=93ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=79ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=97ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=88ms TTL=55
-Reply from 1.1.1.1: bytes=622 time=77ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=104ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=236ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=81ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=81ms TTL=55
+Reply from 1.1.1.1: bytes=623 time=96ms TTL=55
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 32ms, Maximum = 110ms, Average = 76ms
+    Minimum = 38ms, Maximum = 236ms, Average = 86ms
