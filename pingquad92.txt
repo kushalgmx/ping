@@ -1,31 +1,31 @@
-1030
+1031
 
-Wednesday, November 24, 2021 11:49:38 PM
+Wednesday, November 24, 2021 11:53:50 PM
 
 
-Pinging 149.112.112.112 with 1030 bytes of data:
-Reply from 149.112.112.112: bytes=1030 time=43ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=103ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=48ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=52ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=58ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=372ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=72ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=52ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=65ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=42ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=79ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=55ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=63ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=243ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=50ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=56ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=101ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=66ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=45ms TTL=52
-Reply from 149.112.112.112: bytes=1030 time=45ms TTL=52
+Pinging 149.112.112.112 with 1031 bytes of data:
+Reply from 149.112.112.112: bytes=1031 time=61ms TTL=52
+Request timed out.
+Reply from 149.112.112.112: bytes=1031 time=72ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=119ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=78ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=187ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=197ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=234ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=53ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=85ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=82ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=55ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=57ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=48ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=50ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=77ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=56ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=61ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=251ms TTL=52
+Reply from 149.112.112.112: bytes=1031 time=237ms TTL=52
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 42ms, Maximum = 372ms, Average = 85ms
+    Minimum = 48ms, Maximum = 251ms, Average = 108ms
