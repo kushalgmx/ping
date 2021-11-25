@@ -1,31 +1,31 @@
-979
+980
 
-Wednesday, November 24, 2021 8:09:41 PM
+Wednesday, November 24, 2021 8:14:39 PM
 
 
-Pinging 9.9.9.9 with 979 bytes of data:
-Reply from 9.9.9.9: bytes=979 time=38ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=48ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=44ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=601ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=48ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=57ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=55ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=61ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=43ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=193ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=59ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=44ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=575ms TTL=52
-Reply from 9.9.9.9: bytes=979 time=77ms TTL=52
+Pinging 9.9.9.9 with 980 bytes of data:
+Reply from 9.9.9.9: bytes=980 time=38ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=56ms TTL=52
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=980 time=53ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=39ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=980 time=54ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=50ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=55ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=60ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=48ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=50ms TTL=52
+Reply from 9.9.9.9: bytes=980 time=62ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=980 time=95ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=980 time=65ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 601ms, Average = 110ms
+    Minimum = 38ms, Maximum = 95ms, Average = 54ms
