@@ -1,31 +1,31 @@
-768
+769
 
-Wednesday, December 1, 2021 10:08:36 AM
+Wednesday, December 1, 2021 10:13:03 AM
 
 
-Pinging 208.67.220.220 with 768 bytes of data:
-Reply from 208.67.220.220: bytes=768 time=154ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=595ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=188ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=259ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=70ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=358ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=224ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=159ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=327ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=86ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=322ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=444ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=757ms TTL=60
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 208.67.220.220: bytes=768 time=3181ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=2290ms TTL=60
-Reply from 208.67.220.220: bytes=768 time=58ms TTL=60
+Pinging 208.67.220.220 with 769 bytes of data:
+Reply from 208.67.220.220: bytes=769 time=30ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=722ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=25ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=19ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=22ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=26ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=438ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=33ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=18ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=30ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=40ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=326ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=33ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=589ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=411ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=728ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=949ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=345ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=221ms TTL=60
+Reply from 208.67.220.220: bytes=769 time=323ms TTL=60
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 58ms, Maximum = 3181ms, Average = 592ms
+    Minimum = 18ms, Maximum = 949ms, Average = 266ms
