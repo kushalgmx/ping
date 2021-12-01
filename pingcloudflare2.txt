@@ -1,29 +1,31 @@
-551
+552
 
-Tuesday, November 30, 2021 7:49:19 PM
+Tuesday, November 30, 2021 7:56:06 PM
 
 
-Pinging 1.0.0.1 with 551 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 1.0.0.1 with 552 bytes of data:
+Reply from 1.0.0.1: bytes=552 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=11ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=44ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=11ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=552 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=10ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=62ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=19ms TTL=55
+Reply from 1.0.0.1: bytes=552 time=266ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 266ms, Average = 30ms

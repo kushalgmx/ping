@@ -1,29 +1,31 @@
-551
+552
 
-Tuesday, November 30, 2021 7:48:41 PM
+Tuesday, November 30, 2021 7:54:51 PM
 
 
-Pinging 192.168.1.1 with 551 bytes of data:
+Pinging 192.168.1.1 with 552 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Reply from 192.168.1.1: bytes=552 time=2405ms TTL=64
+Reply from 192.168.1.1: bytes=552 time=1043ms TTL=64
+Reply from 192.168.1.1: bytes=552 time=490ms TTL=64
+Reply from 192.168.1.1: bytes=552 time=3ms TTL=64
+Reply from 192.168.1.1: bytes=552 time=5ms TTL=64
+Reply from 192.168.1.1: bytes=552 time=4ms TTL=64
 
 Ping statistics for 192.168.1.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 2405ms, Average = 658ms
