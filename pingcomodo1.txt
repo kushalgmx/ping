@@ -1,29 +1,31 @@
-550
+551
 
-Tuesday, November 30, 2021 7:47:43 PM
+Tuesday, November 30, 2021 7:51:55 PM
 
 
-Pinging 8.26.56.26 with 550 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 8.26.56.26 with 551 bytes of data:
+Reply from 8.26.56.26: bytes=551 time=2872ms TTL=48
+Request timed out.
+Reply from 8.26.56.26: bytes=551 time=2094ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=2971ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=1211ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=471ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=949ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=1304ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=1524ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=259ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=1306ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=1231ms TTL=48
+Reply from 8.26.56.26: bytes=551 time=1491ms TTL=48
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 259ms, Maximum = 2971ms, Average = 1473ms
