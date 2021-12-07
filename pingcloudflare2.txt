@@ -1,31 +1,31 @@
-388
+389
 
-Tuesday, December 7, 2021 6:42:15 AM
+Tuesday, December 7, 2021 6:46:45 AM
 
 
-Pinging 1.0.0.1 with 388 bytes of data:
-Reply from 1.0.0.1: bytes=388 time=283ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=32ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=29ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=195ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=39ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=27ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=29ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=71ms TTL=55
+Pinging 1.0.0.1 with 389 bytes of data:
+Reply from 1.0.0.1: bytes=389 time=23ms TTL=55
 Request timed out.
-Reply from 1.0.0.1: bytes=388 time=50ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=70ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=34ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=114ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=88ms TTL=55
 Request timed out.
-Reply from 1.0.0.1: bytes=388 time=223ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=45ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=29ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=43ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=17ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=50ms TTL=55
-Reply from 1.0.0.1: bytes=388 time=38ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=389 time=31ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=40ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=112ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=389 time=87ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=310ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=29ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=44ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=47ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=76ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=89ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=71ms TTL=55
+Reply from 1.0.0.1: bytes=389 time=41ms TTL=55
+Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 283ms, Average = 72ms
+    Minimum = 23ms, Maximum = 310ms, Average = 80ms
