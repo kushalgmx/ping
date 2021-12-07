@@ -1,31 +1,31 @@
-353
+354
 
-Tuesday, December 7, 2021 3:53:52 AM
+Tuesday, December 7, 2021 3:58:29 AM
 
 
-Pinging 8.20.247.20 with 353 bytes of data:
-Reply from 8.20.247.20: bytes=353 time=57ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=73ms TTL=49
+Pinging 8.20.247.20 with 354 bytes of data:
+Reply from 8.20.247.20: bytes=354 time=41ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=353 time=50ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=65ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=42ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=89ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=51ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=43ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=47ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=44ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=56ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=43ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=46ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=62ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=61ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=63ms TTL=49
-Reply from 8.20.247.20: bytes=353 time=71ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=155ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=43ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=66ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=119ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=96ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=48ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=57ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=122ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=353 time=50ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=354 time=47ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=54ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=105ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=68ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=147ms TTL=49
+Reply from 8.20.247.20: bytes=354 time=72ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=354 time=46ms TTL=49
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 42ms, Maximum = 89ms, Average = 56ms
+    Minimum = 41ms, Maximum = 155ms, Average = 80ms
