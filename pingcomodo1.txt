@@ -1,31 +1,29 @@
-40
+41
 
-Friday, December 10, 2021 3:57:11 PM
+Friday, December 10, 2021 4:02:20 PM
 
 
-Pinging 8.26.56.26 with 40 bytes of data:
-Reply from 8.26.56.26: bytes=40 time=124ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=66ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=69ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=78ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=41ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=94ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=51ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=100ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=45ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=131ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=38ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=161ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=46ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=179ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=140ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=252ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=43ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=493ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=34ms TTL=48
-Reply from 8.26.56.26: bytes=40 time=45ms TTL=48
+Pinging 8.26.56.26 with 41 bytes of data:
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+Request timed out.
+Reply from 192.168.1.103: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.103: Destination host unreachable.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.103: Destination host unreachable.
+Reply from 192.168.1.103: Destination host unreachable.
+Request timed out.
+Reply from 192.168.1.103: Destination host unreachable.
+Request timed out.
+Reply from 192.168.1.103: Destination host unreachable.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 493ms, Average = 111ms
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
