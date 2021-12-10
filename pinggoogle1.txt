@@ -1,31 +1,31 @@
 4
 
-Friday, December 10, 2021 7:30:47 AM
+Friday, December 10, 2021 7:37:15 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=69ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=81ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=22ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=59ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=112ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=278ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=27ms TTL=113
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=113
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=60ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=169ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=54ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=28ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=49ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=56ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=102ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=68ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=223ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=113
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=113
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 278ms, Average = 40ms
+    Minimum = 11ms, Maximum = 223ms, Average = 48ms
