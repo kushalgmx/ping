@@ -1,31 +1,31 @@
-13
+14
 
-Friday, December 10, 2021 2:07:02 PM
+Friday, December 10, 2021 2:11:14 PM
 
 
-Pinging 8.8.8.8 with 13 bytes of data:
-Reply from 8.8.8.8: bytes=13 time=260ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=14ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=13ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=51ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=52ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=309ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=19ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=84ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=12ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=43ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=24ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=20ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=13ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=7ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=14ms TTL=113
+Pinging 8.8.8.8 with 14 bytes of data:
+Reply from 8.8.8.8: bytes=14 time=14ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=35ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=53ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=70ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=27ms TTL=113
 Request timed out.
-Reply from 8.8.8.8: bytes=13 time=11ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=12ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=13ms TTL=113
-Reply from 8.8.8.8: bytes=13 time=12ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=17ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=59ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=24ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=248ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=78ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=17ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=12ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=12ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=14ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=11ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=11ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=16ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=57ms TTL=113
+Reply from 8.8.8.8: bytes=14 time=14ms TTL=113
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 7ms, Maximum = 309ms, Average = 51ms
+    Minimum = 11ms, Maximum = 248ms, Average = 41ms
