@@ -1,29 +1,31 @@
-41
+42
 
-Friday, December 10, 2021 4:00:33 PM
+Friday, December 10, 2021 4:06:31 PM
 
 
-Pinging 208.67.222.222 with 41 bytes of data:
+Pinging 208.67.222.222 with 42 bytes of data:
+Reply from 208.67.222.222: bytes=42 time=16ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=51ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=47ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=38ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=14ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=41ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=11ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=20ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=31ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=44ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=22ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 208.67.222.222: bytes=42 time=151ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=207ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=261ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=11ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=11ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=28ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=53ms TTL=55
+Reply from 208.67.222.222: bytes=42 time=12ms TTL=55
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 261ms, Average = 56ms
