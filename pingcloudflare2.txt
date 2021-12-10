@@ -1,31 +1,31 @@
-42
+43
 
-Friday, December 10, 2021 4:04:47 PM
+Friday, December 10, 2021 4:09:00 PM
 
 
-Pinging 1.0.0.1 with 42 bytes of data:
-Reply from 1.0.0.1: bytes=42 time=11ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=67ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=69ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=11ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=55ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=82ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=12ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=516ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=47ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=95ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=11ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=25ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=13ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=12ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=33ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=40ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=12ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=10ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=20ms TTL=55
-Reply from 1.0.0.1: bytes=42 time=13ms TTL=55
+Pinging 1.0.0.1 with 43 bytes of data:
+Reply from 1.0.0.1: bytes=43 time=11ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=41ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=82ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=43 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=25ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=10ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=25ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=11ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=91ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=11ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=18ms TTL=55
+Reply from 1.0.0.1: bytes=43 time=11ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 516ms, Average = 57ms
+    Minimum = 10ms, Maximum = 91ms, Average = 23ms
