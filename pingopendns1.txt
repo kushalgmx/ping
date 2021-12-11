@@ -1,31 +1,31 @@
-317
+318
 
-Saturday, December 11, 2021 11:04:49 AM
+Saturday, December 11, 2021 11:09:33 AM
 
 
-Pinging 208.67.222.222 with 317 bytes of data:
-Reply from 208.67.222.222: bytes=317 time=36ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=30ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=24ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=30ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=22ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=19ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=36ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=52ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=74ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=38ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=18ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=110ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=59ms TTL=55
-Request timed out.
-Reply from 208.67.222.222: bytes=317 time=37ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=29ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=71ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=73ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=77ms TTL=55
-Reply from 208.67.222.222: bytes=317 time=93ms TTL=55
+Pinging 208.67.222.222 with 318 bytes of data:
+Reply from 208.67.222.222: bytes=318 time=49ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=44ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=46ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=41ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=57ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=76ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=19ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=83ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=428ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=38ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=32ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=36ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=49ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=34ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=36ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=221ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=32ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=64ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=64ms TTL=55
+Reply from 208.67.222.222: bytes=318 time=36ms TTL=55
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 18ms, Maximum = 110ms, Average = 48ms
+    Minimum = 19ms, Maximum = 428ms, Average = 74ms
