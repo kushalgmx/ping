@@ -1,31 +1,31 @@
-343
+344
 
-Thursday, December 16, 2021 4:17:59 AM
+Thursday, December 16, 2021 4:22:44 AM
 
 
-Pinging 1.1.1.1 with 343 bytes of data:
-Reply from 1.1.1.1: bytes=343 time=13ms TTL=55
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=343 time=24ms TTL=55
-Request timed out.
-Reply from 1.1.1.1: bytes=343 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=343 time=12ms TTL=55
-Request timed out.
-Reply from 1.1.1.1: bytes=343 time=14ms TTL=55
-Request timed out.
-Reply from 1.1.1.1: bytes=343 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=343 time=12ms TTL=55
-Reply from 1.1.1.1: bytes=343 time=13ms TTL=55
-Reply from 1.1.1.1: bytes=343 time=18ms TTL=55
-Request timed out.
-Reply from 1.1.1.1: bytes=343 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=343 time=23ms TTL=55
-Request timed out.
-Reply from 1.1.1.1: bytes=343 time=14ms TTL=55
+Pinging 1.1.1.1 with 344 bytes of data:
+Reply from 1.1.1.1: bytes=344 time=41ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=13ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=48ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=13ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=13ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=18ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=22ms TTL=55
+Reply from 1.1.1.1: bytes=344 time=15ms TTL=55
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 24ms, Average = 15ms
+    Minimum = 12ms, Maximum = 48ms, Average = 17ms
