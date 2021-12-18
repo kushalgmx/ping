@@ -1,31 +1,31 @@
-188
+189
 
-Saturday, December 18, 2021 3:11:27 AM
+Saturday, December 18, 2021 3:15:31 AM
 
 
-Pinging 149.112.112.112 with 188 bytes of data:
-Reply from 149.112.112.112: bytes=188 time=44ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=43ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=44ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=168ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=116ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=53ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=231ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=59ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=38ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=36ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=41ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=49ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=165ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=39ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=88ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=44ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=77ms TTL=52
-Request timed out.
-Reply from 149.112.112.112: bytes=188 time=55ms TTL=52
-Reply from 149.112.112.112: bytes=188 time=38ms TTL=52
+Pinging 149.112.112.112 with 189 bytes of data:
+Reply from 149.112.112.112: bytes=189 time=71ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=155ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=42ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=84ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=37ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=85ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=53ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=39ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=37ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=47ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=38ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=178ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=40ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=36ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=349ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=100ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=93ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=38ms TTL=52
+Reply from 149.112.112.112: bytes=189 time=44ms TTL=52
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 231ms, Average = 75ms
+    Minimum = 36ms, Maximum = 349ms, Average = 80ms
