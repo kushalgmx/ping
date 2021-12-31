@@ -1,31 +1,31 @@
-1872
+1873
 
-Thursday, December 30, 2021 11:45:58 PM
+Thursday, December 30, 2021 11:55:30 PM
 
 
-Pinging 1.0.0.1 with 1872 bytes of data:
-Reply from 1.0.0.1: bytes=1872 time=259ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=348ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=369ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=460ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=141ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=170ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=239ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=159ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=251ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=328ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=372ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=517ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=495ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=577ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=665ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=285ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=327ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=274ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=275ms TTL=55
-Reply from 1.0.0.1: bytes=1872 time=335ms TTL=55
+Pinging 1.0.0.1 with 1873 bytes of data:
+Request timed out.
+Reply from 1.0.0.1: bytes=1873 time=262ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=582ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=1023ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=784ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=533ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=325ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=650ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=561ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=491ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=449ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=526ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=550ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=701ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=892ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=956ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=1045ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=848ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=721ms TTL=55
+Reply from 1.0.0.1: bytes=1873 time=824ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 141ms, Maximum = 665ms, Average = 342ms
+    Minimum = 262ms, Maximum = 1045ms, Average = 669ms
