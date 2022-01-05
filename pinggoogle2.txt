@@ -1,31 +1,31 @@
-43
+44
 
-Wednesday, January 5, 2022 5:15:08 PM
+Wednesday, January 5, 2022 5:19:01 PM
 
 
-Pinging 8.8.4.4 with 43 bytes of data:
-Reply from 8.8.4.4: bytes=43 time=79ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=47ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=83ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=112ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=140ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=48ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=115ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=36ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=100ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=34ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=71ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=44ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=59ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=22ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=37ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=35ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=67ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=16ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=54ms TTL=114
-Reply from 8.8.4.4: bytes=43 time=60ms TTL=114
+Pinging 8.8.4.4 with 44 bytes of data:
+Reply from 8.8.4.4: bytes=44 time=20ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=269ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=448ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=96ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=658ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=745ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=900ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=987ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=1057ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=1200ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=1306ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=1634ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=2110ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=2046ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=3574ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=1528ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=556ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=391ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=86ms TTL=114
+Reply from 8.8.4.4: bytes=44 time=549ms TTL=114
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 140ms, Average = 62ms
+    Minimum = 20ms, Maximum = 3574ms, Average = 1008ms
