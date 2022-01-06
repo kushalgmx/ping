@@ -1,31 +1,31 @@
-297
+298
 
-Thursday, January 6, 2022 10:00:53 AM
+Thursday, January 6, 2022 10:05:01 AM
 
 
-Pinging 1.0.0.1 with 297 bytes of data:
-Reply from 1.0.0.1: bytes=297 time=319ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=347ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=397ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=705ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=978ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1177ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1304ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1787ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=2562ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=3438ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1921ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=2139ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1981ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1876ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=1280ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=564ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=234ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=987ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=2014ms TTL=55
-Reply from 1.0.0.1: bytes=297 time=3357ms TTL=55
+Pinging 1.0.0.1 with 298 bytes of data:
+Reply from 1.0.0.1: bytes=298 time=19ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=36ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=16ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=21ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=22ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=47ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=60ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=16ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=57ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=82ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=80ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=46ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=241ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=164ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=183ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=118ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=183ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=209ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=206ms TTL=55
+Reply from 1.0.0.1: bytes=298 time=316ms TTL=55
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 234ms, Maximum = 3438ms, Average = 1468ms
+    Minimum = 16ms, Maximum = 316ms, Average = 106ms
