@@ -1,31 +1,31 @@
-289
+290
 
-Thursday, January 6, 2022 9:29:52 AM
+Thursday, January 6, 2022 9:33:44 AM
 
 
-Pinging 8.8.8.8 with 289 bytes of data:
-Reply from 8.8.8.8: bytes=68 (sent 289) time=39ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=51ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=58ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=39ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=29ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=71ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=40ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=82ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=46ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=67ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=169ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=120ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=211ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=82ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=260ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=98ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=164ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=184ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=227ms TTL=113
-Reply from 8.8.8.8: bytes=68 (sent 289) time=57ms TTL=113
+Pinging 8.8.8.8 with 290 bytes of data:
+Reply from 8.8.8.8: bytes=68 (sent 290) time=31ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=23ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=24ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=20ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=162ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=95ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=17ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=19ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=29ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=33ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=60ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=42ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=28ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=55ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=68ms TTL=113
+Request timed out.
+Reply from 8.8.8.8: bytes=68 (sent 290) time=105ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=88ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=104ms TTL=113
+Reply from 8.8.8.8: bytes=68 (sent 290) time=101ms TTL=113
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 29ms, Maximum = 260ms, Average = 104ms
+    Minimum = 17ms, Maximum = 162ms, Average = 58ms
