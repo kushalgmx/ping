@@ -1,31 +1,31 @@
-310
+311
 
-Monday, January 10, 2022 6:51:34 AM
+Monday, January 10, 2022 6:55:28 AM
 
 
-Pinging 8.26.56.26 with 310 bytes of data:
-Reply from 8.26.56.26: bytes=310 time=37ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=71ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=35ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=46ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=117ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=37ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=70ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=45ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=135ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=36ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=42ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=41ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=39ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=45ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=36ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=47ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=58ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=36ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=42ms TTL=49
-Reply from 8.26.56.26: bytes=310 time=51ms TTL=49
+Pinging 8.26.56.26 with 311 bytes of data:
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+Reply from 8.26.56.26: bytes=311 time=58ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=43ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=45ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=72ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=761ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=29ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=33ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=35ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=27ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=37ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=123ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=27ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=37ms TTL=55
+Reply from 8.26.56.26: bytes=311 time=95ms TTL=55
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 135ms, Average = 53ms
+    Minimum = 27ms, Maximum = 761ms, Average = 93ms
