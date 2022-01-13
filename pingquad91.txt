@@ -1,31 +1,31 @@
-1515
+1516
 
-Thursday, January 13, 2022 5:29:37 PM
+Thursday, January 13, 2022 5:40:31 PM
 
 
-Pinging 9.9.9.9 with 1515 bytes of data:
-Reply from 9.9.9.9: bytes=1515 time=51ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=92ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=114ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=64ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=169ms TTL=52
+Pinging 9.9.9.9 with 1516 bytes of data:
+Reply from 9.9.9.9: bytes=1516 time=1752ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=62ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=363ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=146ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=69ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=1515 time=898ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=91ms TTL=52
-Request timed out.
-Reply from 9.9.9.9: bytes=1515 time=2511ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=59ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=41ms TTL=52
-Reply from 9.9.9.9: bytes=1515 time=79ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=2759ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=80ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=113ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=188ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=37ms TTL=52
 Request timed out.
 Request timed out.
-Reply from 9.9.9.9: bytes=1515 time=63ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=1403ms TTL=52
+Reply from 9.9.9.9: bytes=1516 time=39ms TTL=52
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=1516 time=1422ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 39ms, Maximum = 2511ms, Average = 275ms
+    Minimum = 37ms, Maximum = 2759ms, Average = 567ms
