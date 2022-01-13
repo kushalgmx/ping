@@ -1,31 +1,31 @@
-1518
+1519
 
-Thursday, January 13, 2022 6:04:41 PM
+Thursday, January 13, 2022 6:15:51 PM
 
 
-Pinging 149.112.112.112 with 1518 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=1518 time=59ms TTL=52
-Reply from 149.112.112.112: bytes=1518 time=82ms TTL=52
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 149.112.112.112 with 1519 bytes of data:
+Reply from 149.112.112.112: bytes=1519 time=43ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=42ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=44ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=43ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=65ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=49ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=49ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=43ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=44ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=93ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=59ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=55ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=112ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=46ms TTL=52
+Reply from 149.112.112.112: bytes=1519 time=47ms TTL=52
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 59ms, Maximum = 82ms, Average = 70ms
+    Minimum = 42ms, Maximum = 112ms, Average = 52ms

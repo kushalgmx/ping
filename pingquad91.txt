@@ -1,31 +1,31 @@
-1518
+1519
 
-Thursday, January 13, 2022 6:03:34 PM
+Thursday, January 13, 2022 6:15:28 PM
 
 
-Pinging 9.9.9.9 with 1518 bytes of data:
-Reply from 9.9.9.9: bytes=1518 time=317ms TTL=52
+Pinging 9.9.9.9 with 1519 bytes of data:
+Reply from 9.9.9.9: bytes=1519 time=1797ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=45ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=61ms TTL=52
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 9.9.9.9: bytes=1518 time=84ms TTL=52
-Reply from 9.9.9.9: bytes=1518 time=66ms TTL=52
-Reply from 9.9.9.9: bytes=1518 time=138ms TTL=52
-Reply from 9.9.9.9: bytes=1518 time=80ms TTL=52
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 9.9.9.9: bytes=1518 time=601ms TTL=52
-Reply from 9.9.9.9: bytes=1518 time=302ms TTL=52
-Reply from 9.9.9.9: bytes=1518 time=1138ms TTL=52
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 9.9.9.9: bytes=1519 time=60ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=86ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=46ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=121ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=51ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=62ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=37ms TTL=52
+Reply from 9.9.9.9: bytes=1519 time=39ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 66ms, Maximum = 1138ms, Average = 340ms
+    Minimum = 37ms, Maximum = 1797ms, Average = 143ms
