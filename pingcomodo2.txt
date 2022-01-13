@@ -1,31 +1,31 @@
-1520
+1521
 
-Thursday, January 13, 2022 6:29:39 PM
+Thursday, January 13, 2022 6:40:11 PM
 
 
-Pinging 8.20.247.20 with 1520 bytes of data:
-Reply from 8.20.247.20: bytes=1520 time=42ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=54ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=97ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=54ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=42ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=52ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=43ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=51ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=47ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=49ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=41ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=64ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=56ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=56ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=54ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=41ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=38ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=125ms TTL=49
-Reply from 8.20.247.20: bytes=1520 time=42ms TTL=49
+Pinging 8.20.247.20 with 1521 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=1521 time=44ms TTL=49
+Reply from 8.20.247.20: bytes=1521 time=66ms TTL=49
+Reply from 8.20.247.20: bytes=1521 time=54ms TTL=49
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=1521 time=1325ms TTL=49
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=1521 time=2614ms TTL=49
+Reply from 8.20.247.20: bytes=1521 time=62ms TTL=49
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 38ms, Maximum = 125ms, Average = 54ms
+    Minimum = 44ms, Maximum = 2614ms, Average = 694ms
