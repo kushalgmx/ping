@@ -1,31 +1,31 @@
-844
+845
 
-Thursday, January 20, 2022 5:11:14 PM
+Thursday, January 20, 2022 5:15:39 PM
 
 
-Pinging 1.1.1.1 with 844 bytes of data:
-Reply from 1.1.1.1: bytes=844 time=20ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=19ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=20ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=16ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=19ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=19ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=12ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=13ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=29ms TTL=55
-Reply from 1.1.1.1: bytes=844 time=17ms TTL=55
+Pinging 1.1.1.1 with 845 bytes of data:
+Reply from 1.1.1.1: bytes=845 time=13ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=18ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=13ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=16ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=22ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=20ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=60ms TTL=55
+Reply from 1.1.1.1: bytes=845 time=17ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=845 time=18ms TTL=55
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 29ms, Average = 17ms
+    Minimum = 13ms, Maximum = 60ms, Average = 20ms
