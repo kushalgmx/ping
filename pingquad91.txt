@@ -1,31 +1,31 @@
-1069
+1070
 
-Friday, January 21, 2022 7:53:25 AM
+Friday, January 21, 2022 7:57:53 AM
 
 
-Pinging 9.9.9.9 with 1069 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Reply from 9.9.9.9: bytes=1069 time=55ms TTL=59
-Reply from 9.9.9.9: bytes=1069 time=44ms TTL=59
+Pinging 9.9.9.9 with 1070 bytes of data:
+Reply from 9.9.9.9: bytes=1070 time=42ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=48ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=40ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=41ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=49ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=44ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=45ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=41ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=41ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=44ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=42ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=43ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=40ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=42ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=49ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=48ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=44ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=44ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=45ms TTL=59
+Reply from 9.9.9.9: bytes=1070 time=41ms TTL=59
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 44ms, Maximum = 55ms, Average = 49ms
+    Minimum = 40ms, Maximum = 49ms, Average = 43ms
