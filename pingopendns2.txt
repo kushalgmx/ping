@@ -1,29 +1,29 @@
-639
+640
 
-Sunday, January 23, 2022 6:03:08 AM
+Sunday, January 23, 2022 6:14:49 AM
 
 
-Pinging 208.67.220.220 with 639 bytes of data:
+Pinging 208.67.220.220 with 640 bytes of data:
+Reply from 174.63.7.88: Destination host unreachable.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
 Request timed out.
 Request timed out.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
