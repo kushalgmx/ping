@@ -1,11 +1,16 @@
-678
+679
 
-Sunday, January 23, 2022 12:39:21 PM
+Sunday, January 23, 2022 12:53:56 PM
 
 
-Pinging 1.0.0.1 with 678 bytes of data:
+Pinging 1.0.0.1 with 679 bytes of data:
+Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
+Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
+Reply from 174.63.7.253: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
 Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
@@ -18,12 +23,7 @@ Request timed out.
 Request timed out.
 Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
-Reply from 174.63.7.253: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.253: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),

@@ -1,9 +1,9 @@
-678
+679
 
-Sunday, January 23, 2022 12:44:45 PM
+Sunday, January 23, 2022 12:58:53 PM
 
 
-Pinging 149.112.112.112 with 678 bytes of data:
+Pinging 149.112.112.112 with 679 bytes of data:
 Request timed out.
 Request timed out.
 Reply from 174.63.7.253: Destination host unreachable.
@@ -23,7 +23,7 @@ Request timed out.
 Request timed out.
 Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
-Request timed out.
+Reply from 174.63.7.253: Destination host unreachable.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
