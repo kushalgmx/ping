@@ -1,31 +1,29 @@
-638
+639
 
-Sunday, January 23, 2022 5:57:43 AM
+Sunday, January 23, 2022 6:03:08 AM
 
 
-Pinging 208.67.220.220 with 638 bytes of data:
-Reply from 208.67.220.220: bytes=638 time=13ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=15ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=16ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=14ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=11ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=14ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=15ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=15ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=11ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=15ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=11ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=13ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=11ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=13ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=14ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=18ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=13ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=15ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=11ms TTL=55
-Reply from 208.67.220.220: bytes=638 time=11ms TTL=55
+Pinging 208.67.220.220 with 639 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 18ms, Average = 13ms
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
