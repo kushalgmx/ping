@@ -1,11 +1,9 @@
-688
+689
 
-Sunday, January 23, 2022 3:12:54 PM
+Sunday, January 23, 2022 3:28:16 PM
 
 
-Pinging 8.8.8.8 with 688 bytes of data:
-Request timed out.
-Request timed out.
+Pinging 8.8.8.8 with 689 bytes of data:
 Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
 Reply from 174.63.7.253: Destination host unreachable.
@@ -16,14 +14,16 @@ Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
 Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
-Reply from 174.63.7.253: Destination host unreachable.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 174.63.7.253: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
