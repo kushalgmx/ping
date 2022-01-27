@@ -1,31 +1,31 @@
-1723
+1724
 
-Thursday, January 27, 2022 11:34:34 AM
+Thursday, January 27, 2022 11:43:46 AM
 
 
-Pinging 9.9.9.9 with 1723 bytes of data:
-Reply from 9.9.9.9: bytes=1723 time=48ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=56ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=48ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=43ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=55ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=44ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=56ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=58ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=46ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=94ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=45ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=46ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=53ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=49ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=43ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=44ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=46ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=43ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=54ms TTL=58
-Reply from 9.9.9.9: bytes=1723 time=58ms TTL=58
+Pinging 9.9.9.9 with 1724 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=1724 time=46ms TTL=58
+Reply from 9.9.9.9: bytes=1724 time=70ms TTL=58
+Reply from 9.9.9.9: bytes=1724 time=47ms TTL=58
+Reply from 9.9.9.9: bytes=1724 time=46ms TTL=58
+Reply from 9.9.9.9: bytes=1724 time=294ms TTL=58
+Reply from 9.9.9.9: bytes=1724 time=43ms TTL=58
+Reply from 9.9.9.9: bytes=1724 time=60ms TTL=58
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 43ms, Maximum = 94ms, Average = 51ms
+    Minimum = 43ms, Maximum = 294ms, Average = 86ms
