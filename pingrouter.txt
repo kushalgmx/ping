@@ -1,31 +1,31 @@
-1701
+1702
 
-Thursday, January 27, 2022 8:05:05 AM
+Thursday, January 27, 2022 8:15:31 AM
 
 
-Pinging 192.168.1.1 with 1701 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.1.1: bytes=1701 time=1874ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=300ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=23ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=34ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=25ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=17ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=52ms TTL=64
-Reply from 192.168.1.1: bytes=1701 time=13ms TTL=64
+Pinging 192.168.1.1 with 1702 bytes of data:
+Reply from 192.168.1.1: bytes=1702 time=18ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=49ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=22ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=20ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=17ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=9ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=14ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=28ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=14ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=34ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=24ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=16ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=27ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=16ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=49ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=35ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=22ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=39ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=11ms TTL=64
+Reply from 192.168.1.1: bytes=1702 time=13ms TTL=64
 
 Ping statistics for 192.168.1.1:
-    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 1874ms, Average = 292ms
+    Minimum = 9ms, Maximum = 49ms, Average = 23ms
