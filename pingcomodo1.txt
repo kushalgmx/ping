@@ -1,31 +1,31 @@
-1845
+1846
 
-Friday, January 28, 2022 6:44:30 AM
+Friday, January 28, 2022 6:54:44 AM
 
 
-Pinging 8.26.56.26 with 1845 bytes of data:
-Reply from 8.26.56.26: bytes=1845 time=72ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=46ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=49ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=54ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=61ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=80ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=40ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=106ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=146ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=95ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=58ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=93ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=57ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=76ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=58ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=44ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=60ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=78ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=62ms TTL=49
-Reply from 8.26.56.26: bytes=1845 time=48ms TTL=49
+Pinging 8.26.56.26 with 1846 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.104: Destination host unreachable.
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=1846 time=3745ms TTL=49
+Reply from 8.26.56.26: bytes=1846 time=3274ms TTL=49
+Reply from 8.26.56.26: bytes=1846 time=3364ms TTL=49
+Reply from 8.26.56.26: bytes=1846 time=3588ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=1846 time=3167ms TTL=49
+Reply from 8.26.56.26: bytes=1846 time=2938ms TTL=49
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 40ms, Maximum = 146ms, Average = 69ms
+    Minimum = 2938ms, Maximum = 3745ms, Average = 3346ms
