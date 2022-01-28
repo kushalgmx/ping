@@ -1,31 +1,31 @@
-1842
+1843
 
-Friday, January 28, 2022 5:52:00 AM
+Friday, January 28, 2022 6:03:52 AM
 
 
-Pinging 192.168.1.1 with 1842 bytes of data:
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=12ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=5ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=4ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=6ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=1842 time=2ms TTL=64
+Pinging 192.168.1.1 with 1843 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.1: bytes=1843 time=3274ms TTL=64
+Reply from 192.168.1.1: bytes=1843 time=3395ms TTL=64
+Reply from 192.168.1.1: bytes=1843 time=3209ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 192.168.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 12ms, Average = 2ms
+    Minimum = 3209ms, Maximum = 3395ms, Average = 3292ms
