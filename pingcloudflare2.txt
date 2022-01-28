@@ -1,22 +1,22 @@
-1843
+1844
 
-Friday, January 28, 2022 6:06:33 AM
+Friday, January 28, 2022 6:26:15 AM
 
 
-Pinging 1.0.0.1 with 1843 bytes of data:
+Pinging 1.0.0.1 with 1844 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 1.0.0.1: bytes=1844 time=586ms TTL=55
+Reply from 1.0.0.1: bytes=1844 time=1023ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.0.0.1: bytes=1843 time=376ms TTL=55
-Reply from 1.0.0.1: bytes=1843 time=984ms TTL=55
 Request timed out.
-Reply from 1.0.0.1: bytes=1843 time=3668ms TTL=55
+Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,6 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 376ms, Maximum = 3668ms, Average = 1676ms
+    Minimum = 586ms, Maximum = 1023ms, Average = 804ms
