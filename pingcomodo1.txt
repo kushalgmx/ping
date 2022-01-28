@@ -1,31 +1,31 @@
-1847
+1848
 
-Friday, January 28, 2022 7:11:29 AM
+Friday, January 28, 2022 7:23:49 AM
 
 
-Pinging 8.26.56.26 with 1847 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=1847 time=3019ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=1847 time=1587ms TTL=49
-Reply from 8.26.56.26: bytes=1847 time=1660ms TTL=49
-Reply from 8.26.56.26: bytes=1847 time=2236ms TTL=49
+Pinging 8.26.56.26 with 1848 bytes of data:
+Reply from 8.26.56.26: bytes=1848 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=35ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=34ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=38ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=40ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=34ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=36ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=77ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=87ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=35ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=35ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=73ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=35ms TTL=49
+Reply from 8.26.56.26: bytes=1848 time=42ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1587ms, Maximum = 3019ms, Average = 2125ms
+    Minimum = 34ms, Maximum = 87ms, Average = 42ms

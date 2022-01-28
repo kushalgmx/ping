@@ -1,31 +1,31 @@
-1847
+1848
 
-Friday, January 28, 2022 7:06:41 AM
+Friday, January 28, 2022 7:20:16 AM
 
 
-Pinging 149.112.112.112 with 1847 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=1847 time=3196ms TTL=52
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=1847 time=978ms TTL=52
-Reply from 149.112.112.112: bytes=1847 time=2553ms TTL=52
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 149.112.112.112 with 1848 bytes of data:
+Reply from 149.112.112.112: bytes=1848 time=1402ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=1131ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=990ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=724ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=393ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=88ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=82ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=359ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=364ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=721ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=449ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=88ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=80ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=76ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=67ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=98ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=75ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=80ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=132ms TTL=52
+Reply from 149.112.112.112: bytes=1848 time=95ms TTL=52
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 978ms, Maximum = 3196ms, Average = 2242ms
+    Minimum = 67ms, Maximum = 1402ms, Average = 374ms
