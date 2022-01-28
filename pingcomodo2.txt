@@ -1,24 +1,24 @@
-1846
+1847
 
-Friday, January 28, 2022 6:56:09 AM
+Friday, January 28, 2022 7:12:58 AM
 
 
-Pinging 8.20.247.20 with 1846 bytes of data:
+Pinging 8.20.247.20 with 1847 bytes of data:
+Reply from 8.20.247.20: bytes=1847 time=3437ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 8.20.247.20: bytes=1846 time=857ms TTL=49
-Reply from 8.20.247.20: bytes=1846 time=1202ms TTL=49
-Reply from 8.20.247.20: bytes=1846 time=1828ms TTL=49
-Reply from 8.20.247.20: bytes=1846 time=2176ms TTL=49
-Reply from 8.20.247.20: bytes=1846 time=2699ms TTL=49
-Reply from 8.20.247.20: bytes=1846 time=3503ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=1847 time=1504ms TTL=49
+Reply from 8.20.247.20: bytes=1847 time=1898ms TTL=49
+Reply from 8.20.247.20: bytes=1847 time=2335ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,6 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 857ms, Maximum = 3503ms, Average = 2044ms
+    Minimum = 1504ms, Maximum = 3437ms, Average = 2293ms

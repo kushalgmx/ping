@@ -1,9 +1,13 @@
-1846
+1847
 
-Friday, January 28, 2022 6:54:44 AM
+Friday, January 28, 2022 7:11:29 AM
 
 
-Pinging 8.26.56.26 with 1846 bytes of data:
+Pinging 8.26.56.26 with 1847 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=1847 time=3019ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,21 +15,17 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 192.168.1.104: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=1846 time=3745ms TTL=49
-Reply from 8.26.56.26: bytes=1846 time=3274ms TTL=49
-Reply from 8.26.56.26: bytes=1846 time=3364ms TTL=49
-Reply from 8.26.56.26: bytes=1846 time=3588ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=1846 time=3167ms TTL=49
-Reply from 8.26.56.26: bytes=1846 time=2938ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=1847 time=1587ms TTL=49
+Reply from 8.26.56.26: bytes=1847 time=1660ms TTL=49
+Reply from 8.26.56.26: bytes=1847 time=2236ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 2938ms, Maximum = 3745ms, Average = 3346ms
+    Minimum = 1587ms, Maximum = 3019ms, Average = 2125ms
