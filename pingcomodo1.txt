@@ -1,31 +1,29 @@
-1894
+1895
 
-Friday, January 28, 2022 2:27:37 PM
+Friday, January 28, 2022 2:39:44 PM
 
 
-Pinging 8.26.56.26 with 1894 bytes of data:
-Reply from 8.26.56.26: bytes=1894 time=65ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=89ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=115ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=96ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=46ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=58ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=73ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=143ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=136ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=100ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=781ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=1086ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=1395ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=1815ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=1883ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=2169ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=1953ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=2642ms TTL=49
-Reply from 8.26.56.26: bytes=1894 time=2832ms TTL=49
+Pinging 8.26.56.26 with 1895 bytes of data:
+Request timed out.
+Request timed out.
+Reply from 192.168.1.104: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 43ms, Maximum = 2832ms, Average = 876ms
+    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
