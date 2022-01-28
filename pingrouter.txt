@@ -1,29 +1,31 @@
-1844
+1845
 
-Friday, January 28, 2022 6:23:12 AM
+Friday, January 28, 2022 6:36:18 AM
 
 
-Pinging 192.168.1.1 with 1844 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 192.168.1.1 with 1845 bytes of data:
+Reply from 192.168.1.1: bytes=1845 time=11ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=9ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=42ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=20ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=73ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=18ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=11ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=86ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=18ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=47ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=69ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=19ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=54ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=60ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=7ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=87ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=30ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=155ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=18ms TTL=64
+Reply from 192.168.1.1: bytes=1845 time=12ms TTL=64
 
 Ping statistics for 192.168.1.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 155ms, Average = 42ms
