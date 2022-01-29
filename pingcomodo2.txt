@@ -1,31 +1,31 @@
-1929
+1930
 
-Friday, January 28, 2022 7:58:08 PM
+Friday, January 28, 2022 8:08:41 PM
 
 
-Pinging 8.20.247.20 with 1929 bytes of data:
-Reply from 8.20.247.20: bytes=1929 time=42ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=45ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=37ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=37ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=42ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=71ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=41ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=37ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=53ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=48ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=45ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=390ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=42ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=44ms TTL=49
-Reply from 8.20.247.20: bytes=1929 time=42ms TTL=49
+Pinging 8.20.247.20 with 1930 bytes of data:
+Reply from 8.20.247.20: bytes=1930 time=48ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=41ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=53ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=55ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=44ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=49ms TTL=49
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=1930 time=43ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=45ms TTL=49
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=1930 time=47ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=53ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=42ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=40ms TTL=49
+Reply from 8.20.247.20: bytes=1930 time=55ms TTL=49
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 37ms, Maximum = 390ms, Average = 60ms
+    Minimum = 40ms, Maximum = 55ms, Average = 47ms
