@@ -1,31 +1,31 @@
-3158
+3159
 
-Saturday, February 5, 2022 6:10:18 PM
+Saturday, February 5, 2022 6:20:28 PM
 
 
-Pinging 8.20.247.20 with 3158 bytes of data:
-Reply from 8.20.247.20: bytes=3158 time=75ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=40ms TTL=49
+Pinging 8.20.247.20 with 3159 bytes of data:
+Reply from 8.20.247.20: bytes=3159 time=134ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=40ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=73ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=97ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=44ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=57ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=75ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=52ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.20.247.20: bytes=3158 time=38ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=53ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=149ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=76ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=79ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=56ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=37ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=49ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=48ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=87ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=3158 time=37ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=39ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=50ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=62ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=41ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=84ms TTL=49
-Request timed out.
-Reply from 8.20.247.20: bytes=3158 time=94ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=70ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=67ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=96ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=84ms TTL=49
-Reply from 8.20.247.20: bytes=3158 time=47ms TTL=49
+Reply from 8.20.247.20: bytes=3159 time=68ms TTL=49
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 37ms, Maximum = 96ms, Average = 61ms
+    Minimum = 37ms, Maximum = 149ms, Average = 71ms
