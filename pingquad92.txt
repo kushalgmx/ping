@@ -1,31 +1,31 @@
-3262
+3263
 
-Sunday, February 6, 2022 11:13:10 AM
+Sunday, February 6, 2022 11:24:15 AM
 
 
-Pinging 149.112.112.112 with 3262 bytes of data:
+Pinging 149.112.112.112 with 3263 bytes of data:
+Reply from 149.112.112.112: bytes=3263 time=38ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=47ms TTL=52
+Request timed out.
+Reply from 149.112.112.112: bytes=3263 time=57ms TTL=52
 Request timed out.
 Request timed out.
+Reply from 149.112.112.112: bytes=3263 time=46ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=41ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=67ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=43ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=46ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=75ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=75ms TTL=52
 Request timed out.
+Reply from 149.112.112.112: bytes=3263 time=53ms TTL=52
 Request timed out.
-Reply from 149.112.112.112: bytes=3262 time=40ms TTL=52
-Reply from 149.112.112.112: bytes=3262 time=54ms TTL=52
+Reply from 149.112.112.112: bytes=3263 time=75ms TTL=52
 Request timed out.
+Reply from 149.112.112.112: bytes=3263 time=45ms TTL=52
 Request timed out.
-Reply from 149.112.112.112: bytes=3262 time=51ms TTL=52
-Request timed out.
-Reply from 149.112.112.112: bytes=3262 time=51ms TTL=52
-Request timed out.
-Reply from 149.112.112.112: bytes=3262 time=50ms TTL=52
-Reply from 149.112.112.112: bytes=3262 time=45ms TTL=52
-Request timed out.
-Reply from 149.112.112.112: bytes=3262 time=43ms TTL=52
-Reply from 149.112.112.112: bytes=3262 time=79ms TTL=52
-Request timed out.
-Reply from 149.112.112.112: bytes=3262 time=88ms TTL=52
-Reply from 149.112.112.112: bytes=3262 time=42ms TTL=52
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 40ms, Maximum = 88ms, Average = 54ms
+    Minimum = 38ms, Maximum = 75ms, Average = 54ms

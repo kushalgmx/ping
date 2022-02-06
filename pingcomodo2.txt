@@ -1,31 +1,31 @@
-3262
+3263
 
-Sunday, February 6, 2022 11:18:14 AM
+Sunday, February 6, 2022 11:29:07 AM
 
 
-Pinging 8.20.247.20 with 3262 bytes of data:
-Reply from 8.20.247.20: bytes=3262 time=54ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=50ms TTL=49
+Pinging 8.20.247.20 with 3263 bytes of data:
+Reply from 8.20.247.20: bytes=3263 time=44ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=49ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=3263 time=44ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=41ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=3263 time=42ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.20.247.20: bytes=3262 time=43ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=87ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=56ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=78ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=44ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=3262 time=38ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=48ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=50ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=56ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=41ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=3262 time=40ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=41ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=46ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=43ms TTL=49
-Request timed out.
-Reply from 8.20.247.20: bytes=3262 time=47ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=41ms TTL=49
-Reply from 8.20.247.20: bytes=3262 time=45ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=79ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=111ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=83ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=44ms TTL=49
+Reply from 8.20.247.20: bytes=3263 time=60ms TTL=49
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 38ms, Maximum = 87ms, Average = 48ms
+    Minimum = 41ms, Maximum = 111ms, Average = 58ms
