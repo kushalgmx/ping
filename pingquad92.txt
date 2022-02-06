@@ -1,31 +1,31 @@
-3254
+3255
 
-Sunday, February 6, 2022 9:37:37 AM
+Sunday, February 6, 2022 9:48:39 AM
 
 
-Pinging 149.112.112.112 with 3254 bytes of data:
-Reply from 149.112.112.112: bytes=3254 time=44ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=39ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=46ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=40ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=52ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=68ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=67ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=52ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=56ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=44ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=58ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=41ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=40ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=44ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=45ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=41ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=45ms TTL=52
+Pinging 149.112.112.112 with 3255 bytes of data:
 Request timed out.
-Reply from 149.112.112.112: bytes=3254 time=41ms TTL=52
-Reply from 149.112.112.112: bytes=3254 time=40ms TTL=52
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=3255 time=58ms TTL=52
+Reply from 149.112.112.112: bytes=3255 time=59ms TTL=52
+Reply from 149.112.112.112: bytes=3255 time=45ms TTL=52
+Request timed out.
+Reply from 149.112.112.112: bytes=3255 time=95ms TTL=52
+Reply from 149.112.112.112: bytes=3255 time=49ms TTL=52
+Reply from 149.112.112.112: bytes=3255 time=45ms TTL=52
+Reply from 149.112.112.112: bytes=3255 time=66ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 39ms, Maximum = 68ms, Average = 47ms
+    Minimum = 45ms, Maximum = 95ms, Average = 59ms
