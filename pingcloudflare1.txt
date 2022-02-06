@@ -1,31 +1,31 @@
-3235
+3236
 
-Sunday, February 6, 2022 6:29:28 AM
+Sunday, February 6, 2022 6:39:12 AM
 
 
-Pinging 1.1.1.1 with 3235 bytes of data:
-Reply from 1.1.1.1: bytes=3235 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=22ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=89ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=46ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=33ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=22ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=56ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=19ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=62ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=24ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=16ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=13ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=23ms TTL=55
-Reply from 1.1.1.1: bytes=3235 time=19ms TTL=55
+Pinging 1.1.1.1 with 3236 bytes of data:
+Reply from 1.1.1.1: bytes=3236 time=18ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=235ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=3236 time=27ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3236 time=14ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=3236 time=13ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=29ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=13ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3236 time=19ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3236 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=3236 time=18ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3236 time=13ms TTL=55
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 89ms, Average = 27ms
+    Minimum = 13ms, Maximum = 235ms, Average = 33ms
