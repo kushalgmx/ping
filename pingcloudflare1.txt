@@ -1,31 +1,31 @@
-3259
+3260
 
-Sunday, February 6, 2022 10:31:57 AM
+Sunday, February 6, 2022 10:43:57 AM
 
 
-Pinging 1.1.1.1 with 3259 bytes of data:
+Pinging 1.1.1.1 with 3260 bytes of data:
+Reply from 1.1.1.1: bytes=3260 time=24ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3260 time=46ms TTL=55
+Reply from 1.1.1.1: bytes=3260 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=3260 time=18ms TTL=55
+Reply from 1.1.1.1: bytes=3260 time=42ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
 Request timed out.
-Reply from 1.1.1.1: bytes=3259 time=20ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=3259 time=18ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
 Request timed out.
-Reply from 1.1.1.1: bytes=3259 time=20ms TTL=55
+Reply from 1.1.1.1: bytes=3260 time=68ms TTL=55
+Reply from 1.1.1.1: bytes=3260 time=142ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=3259 time=22ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=3259 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=3259 time=16ms TTL=55
-Reply from 1.1.1.1: bytes=3259 time=20ms TTL=55
-Reply from 1.1.1.1: bytes=3259 time=40ms TTL=55
-Reply from 1.1.1.1: bytes=3259 time=18ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3260 time=14ms TTL=55
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 40ms, Average = 21ms
+    Minimum = 14ms, Maximum = 142ms, Average = 46ms

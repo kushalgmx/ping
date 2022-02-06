@@ -1,31 +1,31 @@
-3259
+3260
 
-Sunday, February 6, 2022 10:42:21 AM
+Sunday, February 6, 2022 10:54:00 AM
 
 
-Pinging 8.20.247.20 with 3259 bytes of data:
-Reply from 8.20.247.20: bytes=3259 time=41ms TTL=49
+Pinging 8.20.247.20 with 3260 bytes of data:
+Request timed out.
+Reply from 8.20.247.20: bytes=3260 time=44ms TTL=49
 Request timed out.
 Request timed out.
+Reply from 8.20.247.20: bytes=3260 time=65ms TTL=49
+Reply from 8.20.247.20: bytes=3260 time=36ms TTL=49
+Reply from 8.20.247.20: bytes=3260 time=47ms TTL=49
+Reply from 8.20.247.20: bytes=3260 time=41ms TTL=49
 Request timed out.
 Request timed out.
+Reply from 8.20.247.20: bytes=3260 time=47ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=3259 time=61ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=3260 time=56ms TTL=48
+Reply from 8.20.247.20: bytes=3260 time=48ms TTL=48
 Request timed out.
 Request timed out.
-Reply from 8.20.247.20: bytes=3259 time=43ms TTL=49
-Reply from 8.20.247.20: bytes=3259 time=34ms TTL=49
-Reply from 8.20.247.20: bytes=3259 time=44ms TTL=49
-Reply from 8.20.247.20: bytes=3259 time=38ms TTL=49
-Reply from 8.20.247.20: bytes=3259 time=40ms TTL=49
-Reply from 8.20.247.20: bytes=3259 time=40ms TTL=49
-Reply from 8.20.247.20: bytes=3259 time=45ms TTL=49
+Reply from 8.20.247.20: bytes=3260 time=41ms TTL=48
+Reply from 8.20.247.20: bytes=3260 time=34ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=3259 time=40ms TTL=49
-Request timed out.
-Reply from 8.20.247.20: bytes=3259 time=42ms TTL=49
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 61ms, Average = 42ms
+    Minimum = 34ms, Maximum = 65ms, Average = 45ms
