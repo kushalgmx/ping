@@ -1,31 +1,31 @@
-3405
+3406
 
-Monday, February 7, 2022 9:27:00 AM
+Monday, February 7, 2022 9:36:12 AM
 
 
-Pinging 192.168.1.1 with 3405 bytes of data:
-Reply from 192.168.1.1: bytes=3405 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=5ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=5ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=3ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=4ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=2ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=19ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=29ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=6ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=5ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=17ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=4ms TTL=64
-Reply from 192.168.1.1: bytes=3405 time=2ms TTL=64
+Pinging 192.168.1.1 with 3406 bytes of data:
+Reply from 192.168.1.1: bytes=3406 time=173ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=179ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=2ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=52ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=12ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=3ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=2ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=2ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=2ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=44ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=98ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=51ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=2ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=4ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=6ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=72ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=8ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=3ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=11ms TTL=64
+Reply from 192.168.1.1: bytes=3406 time=11ms TTL=64
 
 Ping statistics for 192.168.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 29ms, Average = 5ms
+    Minimum = 2ms, Maximum = 179ms, Average = 36ms
