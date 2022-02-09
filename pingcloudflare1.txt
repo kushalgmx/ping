@@ -1,31 +1,31 @@
-3724
+3725
 
-Wednesday, February 9, 2022 10:29:29 AM
+Wednesday, February 9, 2022 10:40:01 AM
 
 
-Pinging 1.1.1.1 with 3724 bytes of data:
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=3724 time=32ms TTL=52
+Pinging 1.1.1.1 with 3725 bytes of data:
+Reply from 1.1.1.1: bytes=3725 time=159ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=181ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=54ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=96ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=111ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=118ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=124ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=32ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=136ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=185ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=99ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=163ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=120ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=38ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=101ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=136ms TTL=52
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=3725 time=82ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=92ms TTL=52
+Reply from 1.1.1.1: bytes=3725 time=128ms TTL=52
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+    Minimum = 32ms, Maximum = 185ms, Average = 113ms
