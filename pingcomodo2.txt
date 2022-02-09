@@ -1,31 +1,29 @@
-3722
+3723
 
-Wednesday, February 9, 2022 10:18:13 AM
+Wednesday, February 9, 2022 10:28:10 AM
 
 
-Pinging 8.20.247.20 with 3722 bytes of data:
-Reply from 8.20.247.20: bytes=3722 time=159ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=75ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=66ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=77ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=67ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=100ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=224ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=312ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=89ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=116ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=109ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=66ms TTL=49
+Pinging 8.20.247.20 with 3723 bytes of data:
 Request timed out.
-Reply from 8.20.247.20: bytes=3722 time=100ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=88ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=459ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=137ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=3722 time=121ms TTL=49
-Reply from 8.20.247.20: bytes=3722 time=107ms TTL=49
+Request timed out.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 66ms, Maximum = 459ms, Average = 137ms
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),

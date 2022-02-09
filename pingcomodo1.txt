@@ -1,31 +1,29 @@
-3722
+3723
 
-Wednesday, February 9, 2022 10:17:54 AM
+Wednesday, February 9, 2022 10:27:14 AM
 
 
-Pinging 8.26.56.26 with 3722 bytes of data:
-Reply from 8.26.56.26: bytes=3722 time=73ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=37ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=71ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=55ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=41ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=112ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=109ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=566ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=82ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=73ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=496ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=142ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=148ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=254ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=286ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=126ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=82ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=454ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=41ms TTL=49
-Reply from 8.26.56.26: bytes=3722 time=57ms TTL=49
+Pinging 8.26.56.26 with 3723 bytes of data:
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Reply from 174.63.7.88: Destination host unreachable.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 37ms, Maximum = 566ms, Average = 165ms
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
