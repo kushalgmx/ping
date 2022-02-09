@@ -1,22 +1,22 @@
-3710
+3711
 
-Wednesday, February 9, 2022 8:25:27 AM
+Wednesday, February 9, 2022 8:34:23 AM
 
 
-Pinging 208.67.220.220 with 3710 bytes of data:
+Pinging 208.67.220.220 with 3711 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
 Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
 Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
 Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,4 +26,4 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),

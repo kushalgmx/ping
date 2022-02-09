@@ -1,29 +1,29 @@
-3710
+3711
 
-Wednesday, February 9, 2022 8:24:30 AM
+Wednesday, February 9, 2022 8:32:44 AM
 
 
-Pinging 208.67.222.222 with 3710 bytes of data:
-General failure.
-General failure.
-Reply from 192.168.1.104: Destination host unreachable.
+Pinging 208.67.222.222 with 3711 bytes of data:
 Request timed out.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
-Reply from 192.168.1.104: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 Request timed out.
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),

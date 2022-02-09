@@ -1,29 +1,31 @@
-3710
+3711
 
-Wednesday, February 9, 2022 8:23:30 AM
+Wednesday, February 9, 2022 8:32:25 AM
 
 
-Pinging 149.112.112.112 with 3710 bytes of data:
-Request timed out.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
+Pinging 149.112.112.112 with 3711 bytes of data:
+Reply from 149.112.112.112: bytes=3711 time=55ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=54ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=54ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=54ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=55ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=56ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=55ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=53ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=57ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=358ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=57ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=107ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=91ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=54ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=63ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=54ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=560ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=65ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=145ms TTL=46
+Reply from 149.112.112.112: bytes=3711 time=515ms TTL=46
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 53ms, Maximum = 560ms, Average = 128ms

@@ -1,29 +1,31 @@
-3710
+3711
 
-Wednesday, February 9, 2022 8:22:31 AM
+Wednesday, February 9, 2022 8:32:05 AM
 
 
-Pinging 9.9.9.9 with 3710 bytes of data:
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
-Reply from 174.63.7.88: Destination host unreachable.
-Request timed out.
+Pinging 9.9.9.9 with 3711 bytes of data:
+Reply from 9.9.9.9: bytes=3711 time=36ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=44ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=45ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=229ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=131ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=37ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=35ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=409ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=110ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=370ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=52ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=34ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=74ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=155ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=36ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=37ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=38ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=37ms TTL=52
+Reply from 9.9.9.9: bytes=3711 time=52ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 409ms, Average = 100ms
