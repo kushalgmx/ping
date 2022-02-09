@@ -1,31 +1,31 @@
-3731
+3732
 
-Wednesday, February 9, 2022 11:37:38 AM
+Wednesday, February 9, 2022 11:47:13 AM
 
 
-Pinging 1.0.0.1 with 3731 bytes of data:
-Reply from 1.0.0.1: bytes=3731 time=43ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=34ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=67ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=46ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=34ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=55ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=29ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=77ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=46ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=198ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=216ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=115ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=32ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=28ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=49ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=270ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=108ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=302ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=29ms TTL=52
-Reply from 1.0.0.1: bytes=3731 time=45ms TTL=52
+Pinging 1.0.0.1 with 3732 bytes of data:
+Reply from 1.0.0.1: bytes=3732 time=44ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=138ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=65ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=63ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=70ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=31ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=43ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=28ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=29ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=47ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=30ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=41ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=39ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=34ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=37ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=44ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=37ms TTL=52
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=3732 time=40ms TTL=52
+Reply from 1.0.0.1: bytes=3732 time=28ms TTL=52
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 28ms, Maximum = 302ms, Average = 91ms
+    Minimum = 28ms, Maximum = 138ms, Average = 46ms
