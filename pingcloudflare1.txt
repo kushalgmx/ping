@@ -1,31 +1,31 @@
-3699
+3700
 
-Wednesday, February 9, 2022 6:35:02 AM
+Wednesday, February 9, 2022 6:44:32 AM
 
 
-Pinging 1.1.1.1 with 3699 bytes of data:
-Reply from 1.1.1.1: bytes=3699 time=40ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=37ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=39ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=49ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=36ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=38ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=36ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=37ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=40ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=48ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=39ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=40ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=39ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=40ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=38ms TTL=51
+Pinging 1.1.1.1 with 3700 bytes of data:
+Reply from 1.1.1.1: bytes=3700 time=37ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=36ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=39ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=232ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=36ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=37ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=42ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=690ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=778ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=40ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=60ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=99ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=82ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=35ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=351ms TTL=51
 Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=3699 time=37ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=39ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=36ms TTL=51
-Reply from 1.1.1.1: bytes=3699 time=39ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=35ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=100ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=133ms TTL=51
+Reply from 1.1.1.1: bytes=3700 time=95ms TTL=51
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 49ms, Average = 39ms
+    Minimum = 35ms, Maximum = 778ms, Average = 155ms
