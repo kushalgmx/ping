@@ -1,31 +1,31 @@
-3930
+3931
 
-Thursday, February 10, 2022 6:24:36 PM
+Thursday, February 10, 2022 6:37:25 PM
 
 
-Pinging 1.0.0.1 with 3930 bytes of data:
-Reply from 1.0.0.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.0.0.1: bytes=3930 time=26ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.0.0.1: bytes=3930 time=27ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
+Pinging 1.0.0.1 with 3931 bytes of data:
 Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
 Request timed out.
 Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=3930 time=23ms TTL=55
+Reply from 1.0.0.1: bytes=3931 time=28ms TTL=55
+Reply from 1.0.0.1: bytes=3931 time=25ms TTL=55
+Request timed out.
 Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=3931 time=20ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=3931 time=24ms TTL=55
 Reply from 1.0.0.1: TTL expired during reassembly.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 23ms, Maximum = 27ms, Average = 25ms
+    Minimum = 20ms, Maximum = 28ms, Average = 24ms

@@ -1,31 +1,31 @@
-3930
+3931
 
-Thursday, February 10, 2022 6:29:41 PM
+Thursday, February 10, 2022 6:42:18 PM
 
 
-Pinging 149.112.112.112 with 3930 bytes of data:
+Pinging 149.112.112.112 with 3931 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 149.112.112.112: bytes=3930 time=67ms TTL=46
-Reply from 149.112.112.112: bytes=3930 time=65ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=3930 time=72ms TTL=46
+Reply from 149.112.112.112: bytes=3931 time=63ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=3930 time=64ms TTL=46
+Reply from 149.112.112.112: bytes=3931 time=63ms TTL=46
+Reply from 149.112.112.112: bytes=3931 time=64ms TTL=46
+Reply from 149.112.112.112: bytes=3931 time=62ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=3930 time=69ms TTL=46
-Reply from 149.112.112.112: bytes=3930 time=60ms TTL=46
-Reply from 149.112.112.112: bytes=3930 time=73ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=3930 time=71ms TTL=46
-Reply from 149.112.112.112: bytes=3930 time=64ms TTL=46
-Reply from 149.112.112.112: bytes=3930 time=62ms TTL=46
-Reply from 149.112.112.112: bytes=3930 time=60ms TTL=46
+Reply from 149.112.112.112: bytes=3931 time=58ms TTL=46
+Reply from 149.112.112.112: bytes=3931 time=63ms TTL=46
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 60ms, Maximum = 73ms, Average = 66ms
+    Minimum = 58ms, Maximum = 64ms, Average = 62ms
