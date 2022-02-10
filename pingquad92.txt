@@ -1,31 +1,31 @@
-3929
+3930
 
-Thursday, February 10, 2022 6:17:22 PM
+Thursday, February 10, 2022 6:29:41 PM
 
 
-Pinging 149.112.112.112 with 3929 bytes of data:
-Reply from 149.112.112.112: bytes=3929 time=69ms TTL=46
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=3929 time=65ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=68ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=63ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=67ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=65ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=71ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=62ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=72ms TTL=46
+Pinging 149.112.112.112 with 3930 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 149.112.112.112: bytes=3929 time=75ms TTL=46
-Reply from 149.112.112.112: bytes=3929 time=62ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=67ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=65ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=3929 time=66ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=72ms TTL=46
+Request timed out.
+Reply from 149.112.112.112: bytes=3930 time=64ms TTL=46
+Request timed out.
+Reply from 149.112.112.112: bytes=3930 time=69ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=60ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=73ms TTL=46
+Request timed out.
+Reply from 149.112.112.112: bytes=3930 time=71ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=64ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=62ms TTL=46
+Reply from 149.112.112.112: bytes=3930 time=60ms TTL=46
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 62ms, Maximum = 75ms, Average = 67ms
+    Minimum = 60ms, Maximum = 73ms, Average = 66ms
