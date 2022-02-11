@@ -1,24 +1,24 @@
-3931
+3932
 
-Thursday, February 10, 2022 6:42:18 PM
+Thursday, February 10, 2022 6:55:31 PM
 
 
-Pinging 149.112.112.112 with 3931 bytes of data:
+Pinging 149.112.112.112 with 3932 bytes of data:
+Request timed out.
+Reply from 149.112.112.112: bytes=3932 time=70ms TTL=46
+Reply from 149.112.112.112: bytes=3932 time=67ms TTL=46
+Request timed out.
+Reply from 149.112.112.112: bytes=3932 time=243ms TTL=46
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=3932 time=65ms TTL=46
+Request timed out.
+Reply from 149.112.112.112: bytes=3932 time=77ms TTL=46
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=3931 time=63ms TTL=46
-Request timed out.
-Reply from 149.112.112.112: bytes=3931 time=63ms TTL=46
-Reply from 149.112.112.112: bytes=3931 time=64ms TTL=46
-Reply from 149.112.112.112: bytes=3931 time=62ms TTL=46
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=3931 time=58ms TTL=46
-Reply from 149.112.112.112: bytes=3931 time=63ms TTL=46
+Reply from 149.112.112.112: bytes=3932 time=63ms TTL=46
 Request timed out.
 Request timed out.
 Request timed out.
@@ -28,4 +28,4 @@ Request timed out.
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 58ms, Maximum = 64ms, Average = 62ms
+    Minimum = 63ms, Maximum = 243ms, Average = 97ms
