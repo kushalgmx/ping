@@ -1,31 +1,31 @@
-3932
+3933
 
-Thursday, February 10, 2022 7:00:04 PM
+Thursday, February 10, 2022 7:12:37 PM
 
 
-Pinging 8.26.56.26 with 3932 bytes of data:
-Request timed out.
-Reply from 8.26.56.26: bytes=3932 time=53ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=3932 time=39ms TTL=49
+Pinging 8.26.56.26 with 3933 bytes of data:
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=3932 time=48ms TTL=49
-Reply from 8.26.56.26: bytes=3932 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=3932 time=57ms TTL=49
 Request timed out.
-Reply from 8.26.56.26: bytes=3932 time=50ms TTL=49
+Reply from 8.26.56.26: bytes=3933 time=44ms TTL=49
+Reply from 8.26.56.26: bytes=3933 time=46ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=3932 time=47ms TTL=49
-Reply from 8.26.56.26: bytes=3932 time=53ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=3932 time=71ms TTL=49
+Reply from 8.26.56.26: bytes=3933 time=40ms TTL=49
 Request timed out.
 Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=3933 time=41ms TTL=49
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=3933 time=49ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 39ms, Maximum = 71ms, Average = 51ms
+    Minimum = 40ms, Maximum = 49ms, Average = 44ms
