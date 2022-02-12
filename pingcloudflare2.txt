@@ -1,31 +1,31 @@
-4228
+4229
 
-Saturday, February 12, 2022 4:50:50 PM
+Saturday, February 12, 2022 5:01:25 PM
 
 
-Pinging 1.0.0.1 with 4228 bytes of data:
+Pinging 1.0.0.1 with 4229 bytes of data:
 Request timed out.
-Reply from 1.0.0.1: bytes=4228 time=246ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=338ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=377ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=136ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=45ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=62ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=24ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=445ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=102ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=478ms TTL=55
 Request timed out.
-Reply from 1.0.0.1: bytes=4228 time=42ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=19ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=493ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=215ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=112ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=19ms TTL=55
 Request timed out.
-Reply from 1.0.0.1: bytes=4228 time=22ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=49ms TTL=55
-Reply from 1.0.0.1: bytes=4228 time=18ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=49ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=69ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=24ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=24ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=47ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=22ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=22ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=4229 time=47ms TTL=55
+Request timed out.
+Reply from 1.0.0.1: bytes=4229 time=24ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=24ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=275ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=37ms TTL=55
+Reply from 1.0.0.1: bytes=4229 time=165ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 18ms, Maximum = 493ms, Average = 183ms
+    Minimum = 19ms, Maximum = 275ms, Average = 64ms
