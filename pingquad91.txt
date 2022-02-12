@@ -1,31 +1,31 @@
-4213
+4214
 
-Saturday, February 12, 2022 2:16:39 PM
+Saturday, February 12, 2022 2:27:34 PM
 
 
-Pinging 9.9.9.9 with 4213 bytes of data:
-Reply from 9.9.9.9: bytes=4213 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=38ms TTL=52
+Pinging 9.9.9.9 with 4214 bytes of data:
+Reply from 9.9.9.9: bytes=4214 time=79ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=86ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=70ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=79ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4213 time=47ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=69ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=142ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=85ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=50ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4213 time=860ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=104ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=56ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=42ms TTL=52
 Request timed out.
 Request timed out.
-Reply from 9.9.9.9: bytes=4213 time=285ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=316ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=49ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=4214 time=42ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4213 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=72ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=49ms TTL=52
-Reply from 9.9.9.9: bytes=4213 time=41ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4214 time=49ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 38ms, Maximum = 860ms, Average = 146ms
+    Minimum = 40ms, Maximum = 86ms, Average = 58ms
