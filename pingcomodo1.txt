@@ -1,31 +1,31 @@
-4222
+4223
 
-Saturday, February 12, 2022 3:56:25 PM
+Saturday, February 12, 2022 4:06:36 PM
 
 
-Pinging 8.26.56.26 with 4222 bytes of data:
-Reply from 8.26.56.26: bytes=4222 time=49ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=52ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=50ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=47ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=291ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=750ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=157ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=464ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=58ms TTL=49
+Pinging 8.26.56.26 with 4223 bytes of data:
 Request timed out.
-Reply from 8.26.56.26: bytes=4222 time=52ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=51ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=120ms TTL=49
-Reply from 8.26.56.26: bytes=4222 time=46ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=51ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=55ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=58ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=62ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=44ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=43ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=46ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=270ms TTL=49
 Request timed out.
+Reply from 8.26.56.26: bytes=4223 time=47ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=56ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=283ms TTL=49
 Request timed out.
+Reply from 8.26.56.26: bytes=4223 time=165ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=160ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=465ms TTL=49
 Request timed out.
-Reply from 8.26.56.26: bytes=4222 time=115ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=86ms TTL=49
+Reply from 8.26.56.26: bytes=4223 time=49ms TTL=49
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 43ms, Maximum = 750ms, Average = 149ms
+    Minimum = 43ms, Maximum = 465ms, Average = 121ms
