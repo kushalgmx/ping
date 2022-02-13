@@ -1,31 +1,31 @@
-4271
+4272
 
-Saturday, February 12, 2022 11:42:32 PM
+Saturday, February 12, 2022 11:53:13 PM
 
 
-Pinging 1.0.0.1 with 4271 bytes of data:
-Reply from 1.0.0.1: bytes=4271 time=47ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=19ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=577ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=30ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=30ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=35ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=127ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=36ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=28ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=83ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=31ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=37ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=76ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=56ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=36ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=38ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=80ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=34ms TTL=55
-Reply from 1.0.0.1: bytes=4271 time=32ms TTL=55
+Pinging 1.0.0.1 with 4272 bytes of data:
+Request timed out.
 Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4272 time=69ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4272 time=50ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=29ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=105ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=54ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4272 time=180ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=93ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4272 time=45ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=28ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4272 time=55ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=111ms TTL=55
+Reply from 1.0.0.1: bytes=4272 time=119ms TTL=55
+Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 577ms, Average = 75ms
+    Minimum = 28ms, Maximum = 180ms, Average = 78ms
