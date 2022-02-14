@@ -1,31 +1,31 @@
-4414
+4415
 
-Sunday, February 13, 2022 10:18:27 PM
+Sunday, February 13, 2022 10:31:50 PM
 
 
-Pinging 149.112.112.112 with 4414 bytes of data:
+Pinging 149.112.112.112 with 4415 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=4415 time=197ms TTL=46
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=4415 time=65ms TTL=46
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 149.112.112.112: bytes=4415 time=140ms TTL=46
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4414 time=77ms TTL=46
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4414 time=1854ms TTL=46
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 77ms, Maximum = 1854ms, Average = 965ms
+    Minimum = 65ms, Maximum = 197ms, Average = 134ms

@@ -1,31 +1,31 @@
-4414
+4415
 
-Sunday, February 13, 2022 10:24:15 PM
+Sunday, February 13, 2022 10:38:06 PM
 
 
-Pinging 8.20.247.20 with 4414 bytes of data:
-Reply from 8.20.247.20: bytes=4414 time=51ms TTL=49
-Reply from 8.20.247.20: bytes=4414 time=53ms TTL=49
+Pinging 8.20.247.20 with 4415 bytes of data:
 Request timed out.
-Reply from 8.20.247.20: bytes=4414 time=57ms TTL=49
+Reply from 8.20.247.20: bytes=4415 time=46ms TTL=49
+Reply from 8.20.247.20: bytes=4415 time=53ms TTL=49
+Reply from 8.20.247.20: bytes=4415 time=60ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=4414 time=50ms TTL=49
-Request timed out.
-Reply from 8.20.247.20: bytes=4414 time=50ms TTL=49
-Reply from 8.20.247.20: bytes=4414 time=83ms TTL=49
-Request timed out.
-Reply from 8.20.247.20: bytes=4414 time=80ms TTL=49
+Reply from 8.20.247.20: bytes=4415 time=78ms TTL=49
+Reply from 8.20.247.20: bytes=4415 time=119ms TTL=49
+Reply from 8.20.247.20: bytes=4415 time=84ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 8.20.247.20: bytes=4415 time=56ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=4414 time=46ms TTL=49
-Reply from 8.20.247.20: bytes=4414 time=56ms TTL=49
-Reply from 8.20.247.20: bytes=4414 time=46ms TTL=49
-Reply from 8.20.247.20: bytes=4414 time=52ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=4415 time=90ms TTL=49
+Request timed out.
+Reply from 8.20.247.20: bytes=4415 time=64ms TTL=49
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 46ms, Maximum = 83ms, Average = 56ms
+    Minimum = 46ms, Maximum = 119ms, Average = 72ms
