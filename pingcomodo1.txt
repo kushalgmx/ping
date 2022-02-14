@@ -1,31 +1,31 @@
-4441
+4442
 
-Monday, February 14, 2022 3:39:34 AM
+Monday, February 14, 2022 3:49:32 AM
 
 
-Pinging 8.26.56.26 with 4441 bytes of data:
-Reply from 8.26.56.26: bytes=4441 time=369ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=100ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=44ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=40ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=301ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=41ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=192ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=125ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=49ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=110ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=298ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=49ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=43ms TTL=49
+Pinging 8.26.56.26 with 4442 bytes of data:
+Reply from 8.26.56.26: bytes=4442 time=67ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=52ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=469ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=4441 time=40ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=42ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=55ms TTL=49
-Reply from 8.26.56.26: bytes=4441 time=41ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=75ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=68ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=306ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=46ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4442 time=88ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=101ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=222ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=89ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=275ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=188ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=167ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=158ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=1056ms TTL=49
+Reply from 8.26.56.26: bytes=4442 time=121ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 40ms, Maximum = 369ms, Average = 110ms
+    Minimum = 46ms, Maximum = 1056ms, Average = 208ms
