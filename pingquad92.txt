@@ -1,31 +1,31 @@
-4417
+4418
 
-Sunday, February 13, 2022 10:56:50 PM
+Sunday, February 13, 2022 11:08:50 PM
 
 
-Pinging 149.112.112.112 with 4417 bytes of data:
-Request timed out.
-Reply from 149.112.112.112: bytes=4417 time=98ms TTL=46
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4417 time=547ms TTL=46
-Reply from 149.112.112.112: bytes=4417 time=73ms TTL=46
-Reply from 149.112.112.112: bytes=4417 time=67ms TTL=46
-Reply from 149.112.112.112: bytes=4417 time=79ms TTL=46
+Pinging 149.112.112.112 with 4418 bytes of data:
+Reply from 149.112.112.112: bytes=4418 time=77ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=66ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=70ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=74ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=63ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=71ms TTL=46
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 149.112.112.112: bytes=4417 time=108ms TTL=46
-Reply from 149.112.112.112: bytes=4417 time=62ms TTL=46
-Reply from 149.112.112.112: bytes=4417 time=63ms TTL=46
-Reply from 149.112.112.112: bytes=4417 time=70ms TTL=46
 Request timed out.
 Request timed out.
-Reply from 149.112.112.112: bytes=4417 time=68ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=4417 time=62ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=64ms TTL=46
+Request timed out.
+Reply from 149.112.112.112: bytes=4418 time=73ms TTL=46
+Reply from 149.112.112.112: bytes=4418 time=69ms TTL=46
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 62ms, Maximum = 547ms, Average = 117ms
+    Minimum = 63ms, Maximum = 77ms, Average = 69ms

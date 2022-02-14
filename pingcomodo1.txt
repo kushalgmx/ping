@@ -1,31 +1,31 @@
-4417
+4418
 
-Sunday, February 13, 2022 11:01:03 PM
+Sunday, February 13, 2022 11:13:11 PM
 
 
-Pinging 8.26.56.26 with 4417 bytes of data:
+Pinging 8.26.56.26 with 4418 bytes of data:
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=49ms TTL=49
-Reply from 8.26.56.26: bytes=4417 time=45ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=49ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=71ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=51ms TTL=49
-Reply from 8.26.56.26: bytes=4417 time=45ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=55ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=64ms TTL=49
-Reply from 8.26.56.26: bytes=4417 time=57ms TTL=49
 Request timed out.
 Request timed out.
-Reply from 8.26.56.26: bytes=4417 time=53ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4418 time=53ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4418 time=50ms TTL=49
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=4418 time=49ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4418 time=69ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 45ms, Maximum = 71ms, Average = 53ms
+    Minimum = 49ms, Maximum = 69ms, Average = 55ms
