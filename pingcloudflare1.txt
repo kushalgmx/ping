@@ -1,31 +1,31 @@
-4529
+4530
 
-Monday, February 14, 2022 5:27:08 PM
+Monday, February 14, 2022 5:38:02 PM
 
 
-Pinging 1.1.1.1 with 4529 bytes of data:
-Reply from 1.1.1.1: bytes=4529 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=96ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=26ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=22ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=37ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=20ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=41ms TTL=55
+Pinging 1.1.1.1 with 4530 bytes of data:
+Reply from 1.1.1.1: bytes=4530 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=104ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4529 time=23ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=38ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=22ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=22ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=4530 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=15ms TTL=55
+Request timed out.
 Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4529 time=24ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=4529 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=16ms TTL=55
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=4530 time=18ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=4530 time=38ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=43ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: bytes=4530 time=25ms TTL=55
+Reply from 1.1.1.1: bytes=4530 time=214ms TTL=55
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 96ms, Average = 26ms
+    Minimum = 15ms, Maximum = 214ms, Average = 45ms
