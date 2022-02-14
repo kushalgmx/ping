@@ -1,31 +1,31 @@
-4427
+4428
 
-Monday, February 14, 2022 1:04:28 AM
+Monday, February 14, 2022 1:17:53 AM
 
 
-Pinging 8.20.247.20 with 4427 bytes of data:
+Pinging 8.20.247.20 with 4428 bytes of data:
 Request timed out.
-Request timed out.
-Reply from 8.20.247.20: bytes=4427 time=49ms TTL=49
-Reply from 8.20.247.20: bytes=4427 time=55ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.20.247.20: bytes=4427 time=52ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=48ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=48ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=69ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=159ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 8.20.247.20: bytes=4427 time=50ms TTL=49
 Request timed out.
-Reply from 8.20.247.20: bytes=4427 time=51ms TTL=49
-Request timed out.
-Reply from 8.20.247.20: bytes=4427 time=48ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=161ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=42ms TTL=49
 Request timed out.
 Request timed out.
+Reply from 8.20.247.20: bytes=4428 time=44ms TTL=49
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=4428 time=47ms TTL=49
+Reply from 8.20.247.20: bytes=4428 time=106ms TTL=49
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 48ms, Maximum = 55ms, Average = 50ms
+    Minimum = 42ms, Maximum = 161ms, Average = 80ms
