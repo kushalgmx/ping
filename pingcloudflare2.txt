@@ -1,31 +1,31 @@
-4530
+4531
 
-Monday, February 14, 2022 5:38:50 PM
+Monday, February 14, 2022 5:50:01 PM
 
 
-Pinging 1.0.0.1 with 4530 bytes of data:
-Reply from 1.0.0.1: bytes=4530 time=17ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=21ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=4530 time=36ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=31ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=137ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=13ms TTL=55
+Pinging 1.0.0.1 with 4531 bytes of data:
+Reply from 1.0.0.1: bytes=4531 time=18ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=19ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=19ms TTL=55
 Request timed out.
+Reply from 1.0.0.1: bytes=4531 time=32ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=20ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=112ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=18ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=29ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=20ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=16ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=21ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=54ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=16ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=17ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=16ms TTL=55
 Request timed out.
-Reply from 1.0.0.1: bytes=4530 time=21ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=19ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=78ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=16ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=18ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=33ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=20ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=14ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=16ms TTL=55
-Reply from 1.0.0.1: bytes=4530 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=4531 time=29ms TTL=55
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 137ms, Average = 31ms
+    Minimum = 15ms, Maximum = 112ms, Average = 27ms
