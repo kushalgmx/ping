@@ -1,31 +1,31 @@
-4435
+4436
 
-Monday, February 14, 2022 2:36:00 AM
+Monday, February 14, 2022 2:45:51 AM
 
 
-Pinging 9.9.9.9 with 4435 bytes of data:
-Reply from 9.9.9.9: bytes=4435 time=217ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=117ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=191ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=131ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=43ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=78ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=110ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=419ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=111ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=49ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=39ms TTL=52
+Pinging 9.9.9.9 with 4436 bytes of data:
+Reply from 9.9.9.9: bytes=4436 time=47ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=43ms TTL=52
 Request timed out.
+Reply from 9.9.9.9: bytes=4436 time=247ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=57ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4435 time=264ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=152ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=158ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=95ms TTL=52
-Reply from 9.9.9.9: bytes=4435 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=667ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=587ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=562ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=204ms TTL=52
 Request timed out.
+Reply from 9.9.9.9: bytes=4436 time=49ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=45ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=50ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4436 time=54ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=49ms TTL=52
+Reply from 9.9.9.9: bytes=4436 time=49ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4436 time=51ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 39ms, Maximum = 419ms, Average = 132ms
+    Minimum = 43ms, Maximum = 667ms, Average = 184ms
