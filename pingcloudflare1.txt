@@ -1,31 +1,31 @@
-4422
+4423
 
-Sunday, February 13, 2022 11:54:04 PM
+Monday, February 14, 2022 12:06:38 AM
 
 
-Pinging 1.1.1.1 with 4422 bytes of data:
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4422 time=30ms TTL=55
-Reply from 1.1.1.1: bytes=4422 time=28ms TTL=55
+Pinging 1.1.1.1 with 4423 bytes of data:
 Request timed out.
-Reply from 1.1.1.1: bytes=4422 time=81ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4422 time=24ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4422 time=25ms TTL=55
+Reply from 1.1.1.1: bytes=4423 time=20ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4422 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=4422 time=36ms TTL=55
+Reply from 1.1.1.1: bytes=4423 time=27ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=4422 time=46ms TTL=55
-Reply from 1.1.1.1: bytes=4422 time=164ms TTL=55
+Request timed out.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4423 time=35ms TTL=55
+Reply from 1.1.1.1: bytes=4423 time=60ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4423 time=35ms TTL=55
+Reply from 1.1.1.1: bytes=4423 time=25ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 18ms, Maximum = 164ms, Average = 50ms
+    Minimum = 20ms, Maximum = 60ms, Average = 33ms
