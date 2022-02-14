@@ -1,20 +1,12 @@
-4428
+4429
 
-Monday, February 14, 2022 1:07:00 AM
+Monday, February 14, 2022 1:20:04 AM
 
 
-Pinging 1.0.0.1 with 4428 bytes of data:
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=4428 time=46ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=4428 time=25ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=4428 time=30ms TTL=55
+Pinging 1.0.0.1 with 4429 bytes of data:
+Reply from 1.0.0.1: bytes=4429 time=45ms TTL=55
+Reply from 1.0.0.1: bytes=4429 time=1452ms TTL=55
+Reply from 1.0.0.1: bytes=4429 time=56ms TTL=55
 Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
@@ -23,9 +15,17 @@ Request timed out.
 Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
 Request timed out.
+Reply from 1.0.0.1: bytes=4429 time=137ms TTL=55
+Reply from 1.0.0.1: bytes=4429 time=24ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4429 time=43ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4429 time=23ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 46ms, Average = 33ms
+    Minimum = 23ms, Maximum = 1452ms, Average = 254ms
