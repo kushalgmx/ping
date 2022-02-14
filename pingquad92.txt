@@ -1,31 +1,31 @@
-4535
+4536
 
-Monday, February 14, 2022 6:38:07 PM
+Monday, February 14, 2022 6:49:43 PM
 
 
-Pinging 149.112.112.112 with 4535 bytes of data:
-Reply from 149.112.112.112: bytes=4535 time=145ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=120ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=89ms TTL=46
+Pinging 149.112.112.112 with 4536 bytes of data:
 Request timed out.
-Reply from 149.112.112.112: bytes=4535 time=83ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=123ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=127ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=91ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=92ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=84ms TTL=46
 Request timed out.
+Reply from 149.112.112.112: bytes=4536 time=83ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=114ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=92ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=69ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=116ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=105ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=70ms TTL=46
 Request timed out.
-Reply from 149.112.112.112: bytes=4535 time=116ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=106ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=61ms TTL=46
 Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4535 time=71ms TTL=46
-Request timed out.
-Reply from 149.112.112.112: bytes=4535 time=62ms TTL=46
-Reply from 149.112.112.112: bytes=4535 time=108ms TTL=46
-Request timed out.
+Reply from 149.112.112.112: bytes=4536 time=60ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=110ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=60ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=115ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=97ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=80ms TTL=46
+Reply from 149.112.112.112: bytes=4536 time=78ms TTL=46
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 62ms, Maximum = 145ms, Average = 102ms
+    Minimum = 60ms, Maximum = 116ms, Average = 87ms
