@@ -1,31 +1,31 @@
-4409
+4410
 
-Sunday, February 13, 2022 9:15:30 PM
+Sunday, February 13, 2022 9:25:21 PM
 
 
-Pinging 1.1.1.1 with 4409 bytes of data:
+Pinging 1.1.1.1 with 4410 bytes of data:
+Reply from 1.1.1.1: bytes=4410 time=21ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=171ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=18ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=29ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=21ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=33ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=127ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=20ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=113ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=69ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4409 time=44ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4409 time=20ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=274ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=80ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=600ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=33ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=85ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=21ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=24ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=22ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=36ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=29ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4409 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=30ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=30ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=19ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=27ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=25ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=39ms TTL=55
-Reply from 1.1.1.1: bytes=4409 time=51ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=57ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=33ms TTL=55
+Reply from 1.1.1.1: bytes=4410 time=22ms TTL=55
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 600ms, Average = 83ms
+    Minimum = 15ms, Maximum = 171ms, Average = 49ms

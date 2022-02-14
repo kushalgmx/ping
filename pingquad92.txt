@@ -1,31 +1,31 @@
-4409
+4410
 
-Sunday, February 13, 2022 9:20:13 PM
+Sunday, February 13, 2022 9:30:04 PM
 
 
-Pinging 149.112.112.112 with 4409 bytes of data:
-Reply from 149.112.112.112: bytes=4409 time=65ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=529ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=271ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=61ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=548ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=80ms TTL=46
-Request timed out.
-Reply from 149.112.112.112: bytes=4409 time=59ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=939ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=61ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=59ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=291ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=70ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=59ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=59ms TTL=46
-Request timed out.
-Reply from 149.112.112.112: bytes=4409 time=77ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=60ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=82ms TTL=46
-Reply from 149.112.112.112: bytes=4409 time=107ms TTL=46
+Pinging 149.112.112.112 with 4410 bytes of data:
+Reply from 149.112.112.112: bytes=4410 time=70ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=196ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=63ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=396ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=179ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=370ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=64ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=63ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=83ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=69ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=102ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=150ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=354ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=92ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=162ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=61ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=59ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=129ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=62ms TTL=46
+Reply from 149.112.112.112: bytes=4410 time=847ms TTL=46
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 59ms, Maximum = 939ms, Average = 193ms
+    Minimum = 59ms, Maximum = 847ms, Average = 178ms
