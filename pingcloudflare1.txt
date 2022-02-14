@@ -1,31 +1,31 @@
-4416
+4417
 
-Sunday, February 13, 2022 10:39:50 PM
+Sunday, February 13, 2022 10:52:01 PM
 
 
-Pinging 1.1.1.1 with 4416 bytes of data:
+Pinging 1.1.1.1 with 4417 bytes of data:
+Reply from 1.1.1.1: bytes=4417 time=33ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4417 time=28ms TTL=55
+Reply from 1.1.1.1: bytes=4417 time=32ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4416 time=23ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Request timed out.
+Reply from 1.1.1.1: bytes=4417 time=43ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4417 time=34ms TTL=55
+Reply from 1.1.1.1: bytes=4417 time=24ms TTL=55
+Reply from 1.1.1.1: bytes=4417 time=34ms TTL=55
+Reply from 1.1.1.1: bytes=4417 time=32ms TTL=55
+Reply from 1.1.1.1: bytes=4417 time=40ms TTL=55
+Reply from 1.1.1.1: bytes=4417 time=31ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
 Reply from 1.1.1.1: TTL expired during reassembly.
-Request timed out.
+Reply from 1.1.1.1: bytes=4417 time=40ms TTL=55
 Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4416 time=31ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.1.1.1: bytes=4416 time=34ms TTL=55
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 23ms, Maximum = 34ms, Average = 29ms
+    Minimum = 24ms, Maximum = 43ms, Average = 33ms

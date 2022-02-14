@@ -1,31 +1,31 @@
-4416
+4417
 
-Sunday, February 13, 2022 10:40:25 PM
+Sunday, February 13, 2022 10:52:25 PM
 
 
-Pinging 1.0.0.1 with 4416 bytes of data:
-Reply from 1.0.0.1: bytes=4416 time=42ms TTL=55
-Request timed out.
-Reply from 1.0.0.1: bytes=4416 time=31ms TTL=55
+Pinging 1.0.0.1 with 4417 bytes of data:
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4417 time=28ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4417 time=31ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4417 time=25ms TTL=55
+Reply from 1.0.0.1: bytes=4417 time=32ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4417 time=23ms TTL=55
+Reply from 1.0.0.1: bytes=4417 time=35ms TTL=55
+Reply from 1.0.0.1: bytes=4417 time=36ms TTL=55
+Reply from 1.0.0.1: bytes=4417 time=1106ms TTL=55
+Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4417 time=59ms TTL=55
 Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
 Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=4416 time=25ms TTL=55
-Reply from 1.0.0.1: bytes=4416 time=29ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: bytes=4416 time=29ms TTL=55
-Reply from 1.0.0.1: TTL expired during reassembly.
-Request timed out.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
-Reply from 1.0.0.1: TTL expired during reassembly.
+Reply from 1.0.0.1: bytes=4417 time=28ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 42ms, Average = 31ms
+    Minimum = 23ms, Maximum = 1106ms, Average = 140ms
