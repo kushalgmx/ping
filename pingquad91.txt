@@ -1,31 +1,31 @@
-4549
+4550
 
-Monday, February 14, 2022 9:02:58 PM
+Monday, February 14, 2022 9:12:45 PM
 
 
-Pinging 9.9.9.9 with 4549 bytes of data:
-Reply from 9.9.9.9: bytes=4549 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=41ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=42ms TTL=52
+Pinging 9.9.9.9 with 4550 bytes of data:
 Request timed out.
-Reply from 9.9.9.9: bytes=4549 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=229ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=56ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=57ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=36ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=293ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=37ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=67ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4549 time=36ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=35ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=61ms TTL=52
 Request timed out.
-Request timed out.
-Reply from 9.9.9.9: bytes=4549 time=40ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=70ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=47ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=64ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=70ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4549 time=54ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=47ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=54ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=639ms TTL=52
+Reply from 9.9.9.9: bytes=4550 time=38ms TTL=52
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 70ms, Average = 46ms
+    Minimum = 35ms, Maximum = 639ms, Average = 106ms
