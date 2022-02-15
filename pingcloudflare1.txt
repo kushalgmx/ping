@@ -1,31 +1,31 @@
-4555
+4556
 
-Monday, February 14, 2022 10:00:53 PM
+Monday, February 14, 2022 10:11:32 PM
 
 
-Pinging 1.1.1.1 with 4555 bytes of data:
-Reply from 1.1.1.1: bytes=4555 time=29ms TTL=55
-Reply from 1.1.1.1: bytes=4555 time=35ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4555 time=29ms TTL=55
-Reply from 1.1.1.1: bytes=4555 time=42ms TTL=55
-Reply from 1.1.1.1: bytes=4555 time=75ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4555 time=20ms TTL=55
+Pinging 1.1.1.1 with 4556 bytes of data:
+Reply from 1.1.1.1: bytes=4556 time=35ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=25ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=25ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=33ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=42ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=24ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=20ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=33ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=39ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=19ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=45ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4555 time=30ms TTL=55
-Reply from 1.1.1.1: bytes=4555 time=76ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=33ms TTL=55
 Request timed out.
-Reply from 1.1.1.1: bytes=4555 time=60ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4555 time=175ms TTL=55
-Reply from 1.1.1.1: bytes=4555 time=40ms TTL=55
-Reply from 1.1.1.1: TTL expired during reassembly.
 Request timed out.
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=4555 time=20ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=23ms TTL=55
+Reply from 1.1.1.1: bytes=4556 time=71ms TTL=55
+Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 175ms, Average = 52ms
+    Minimum = 17ms, Maximum = 71ms, Average = 31ms
