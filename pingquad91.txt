@@ -1,31 +1,31 @@
-4552
+4553
 
-Monday, February 14, 2022 9:33:32 PM
+Monday, February 14, 2022 9:43:46 PM
 
 
-Pinging 9.9.9.9 with 4552 bytes of data:
-Reply from 9.9.9.9: bytes=4552 time=50ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=52ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=47ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=46ms TTL=52
+Pinging 9.9.9.9 with 4553 bytes of data:
+Reply from 9.9.9.9: bytes=4553 time=44ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=45ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=42ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4552 time=63ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=43ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=59ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=44ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4552 time=79ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4552 time=63ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=37ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=50ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=41ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=62ms TTL=52
-Reply from 9.9.9.9: bytes=4552 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=75ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=39ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=47ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=46ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=109ms TTL=52
+Reply from 9.9.9.9: bytes=4553 time=40ms TTL=52
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 37ms, Maximum = 79ms, Average = 49ms
+    Minimum = 39ms, Maximum = 109ms, Average = 49ms
