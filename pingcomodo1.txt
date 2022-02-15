@@ -1,31 +1,31 @@
-4563
+4564
 
-Monday, February 14, 2022 11:33:08 PM
+Monday, February 14, 2022 11:43:26 PM
 
 
-Pinging 8.26.56.26 with 4563 bytes of data:
-Reply from 8.26.56.26: bytes=4563 time=40ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=41ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=38ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=38ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=38ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=43ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=230ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=148ms TTL=49
+Pinging 8.26.56.26 with 4564 bytes of data:
+Reply from 8.26.56.26: bytes=4564 time=54ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=44ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=44ms TTL=49
 Request timed out.
+Reply from 8.26.56.26: bytes=4564 time=156ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=43ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=49ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=42ms TTL=49
 Request timed out.
-Reply from 8.26.56.26: bytes=4563 time=38ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=41ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=39ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=40ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=127ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=307ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=42ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=57ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=85ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=47ms TTL=49
 Request timed out.
-Reply from 8.26.56.26: bytes=4563 time=44ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=54ms TTL=49
-Reply from 8.26.56.26: bytes=4563 time=41ms TTL=49
-Request timed out.
+Reply from 8.26.56.26: bytes=4564 time=40ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=42ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=257ms TTL=49
+Reply from 8.26.56.26: bytes=4564 time=71ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 38ms, Maximum = 230ms, Average = 59ms
+    Minimum = 40ms, Maximum = 307ms, Average = 88ms
