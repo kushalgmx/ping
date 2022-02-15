@@ -1,31 +1,31 @@
-4569
+4570
 
-Tuesday, February 15, 2022 12:31:16 AM
+Tuesday, February 15, 2022 12:41:19 AM
 
 
-Pinging 9.9.9.9 with 4569 bytes of data:
-Reply from 9.9.9.9: bytes=4569 time=44ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=109ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=109ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=96ms TTL=52
+Pinging 9.9.9.9 with 4570 bytes of data:
+Reply from 9.9.9.9: bytes=4570 time=48ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4569 time=43ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=51ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=45ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=43ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=41ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=367ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=37ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4569 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=48ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=44ms TTL=52
-Reply from 9.9.9.9: bytes=4569 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=40ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4570 time=46ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=428ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=52ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4570 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=37ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=50ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=104ms TTL=52
+Reply from 9.9.9.9: bytes=4570 time=136ms TTL=52
+Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 39ms, Maximum = 109ms, Average = 53ms
+    Minimum = 37ms, Maximum = 428ms, Average = 100ms
