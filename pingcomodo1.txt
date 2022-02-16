@@ -1,31 +1,31 @@
-4727
+4728
 
-Wednesday, February 16, 2022 1:13:29 AM
+Wednesday, February 16, 2022 1:26:01 AM
 
 
-Pinging 8.26.56.26 with 4727 bytes of data:
+Pinging 8.26.56.26 with 4728 bytes of data:
+Reply from 8.26.56.26: bytes=4728 time=221ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4728 time=42ms TTL=49
+Reply from 8.26.56.26: bytes=4728 time=54ms TTL=49
+Reply from 8.26.56.26: bytes=4728 time=49ms TTL=49
+Reply from 8.26.56.26: bytes=4728 time=41ms TTL=49
+Reply from 8.26.56.26: bytes=4728 time=46ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4728 time=50ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4728 time=51ms TTL=49
+Request timed out.
+Reply from 8.26.56.26: bytes=4728 time=41ms TTL=49
+Reply from 8.26.56.26: bytes=4728 time=46ms TTL=49
+Reply from 8.26.56.26: bytes=4728 time=42ms TTL=49
 Request timed out.
 Request timed out.
+Reply from 8.26.56.26: bytes=4728 time=45ms TTL=49
 Request timed out.
-Reply from 8.26.56.26: bytes=4727 time=50ms TTL=49
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=4727 time=319ms TTL=49
-Reply from 8.26.56.26: bytes=4727 time=44ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=4727 time=38ms TTL=49
-Reply from 8.26.56.26: bytes=4727 time=45ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=4727 time=43ms TTL=49
-Request timed out.
-Request timed out.
+Reply from 8.26.56.26: bytes=4728 time=529ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 38ms, Maximum = 319ms, Average = 89ms
+    Minimum = 41ms, Maximum = 529ms, Average = 96ms
