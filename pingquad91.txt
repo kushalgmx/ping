@@ -1,31 +1,31 @@
-4725
+4726
 
-Wednesday, February 16, 2022 12:44:58 AM
+Wednesday, February 16, 2022 12:55:46 AM
 
 
-Pinging 9.9.9.9 with 4725 bytes of data:
-Reply from 9.9.9.9: bytes=4725 time=40ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=41ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=326ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=35ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=166ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=180ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=60ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=82ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=139ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4725 time=53ms TTL=52
+Pinging 9.9.9.9 with 4726 bytes of data:
+Request timed out.
+Reply from 9.9.9.9: bytes=4726 time=41ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=4726 time=46ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=4726 time=40ms TTL=52
+Reply from 9.9.9.9: bytes=4726 time=44ms TTL=52
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=4726 time=42ms TTL=52
+Reply from 9.9.9.9: bytes=4726 time=39ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=4726 time=36ms TTL=52
+Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 326ms, Average = 75ms
+    Minimum = 36ms, Maximum = 46ms, Average = 41ms
