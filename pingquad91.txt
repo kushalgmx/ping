@@ -1,31 +1,31 @@
-4728
+4729
 
-Wednesday, February 16, 2022 1:20:37 AM
+Wednesday, February 16, 2022 1:32:54 AM
 
 
-Pinging 9.9.9.9 with 4728 bytes of data:
-Reply from 9.9.9.9: bytes=4728 time=229ms TTL=52
-Reply from 9.9.9.9: bytes=4728 time=344ms TTL=52
-Request timed out.
-Request timed out.
-Reply from 9.9.9.9: bytes=4728 time=41ms TTL=52
-Reply from 9.9.9.9: bytes=4728 time=59ms TTL=52
+Pinging 9.9.9.9 with 4729 bytes of data:
+Reply from 9.9.9.9: bytes=4729 time=39ms TTL=52
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 9.9.9.9: bytes=4728 time=51ms TTL=52
 Request timed out.
-Reply from 9.9.9.9: bytes=4728 time=44ms TTL=52
-Reply from 9.9.9.9: bytes=4728 time=399ms TTL=52
-Reply from 9.9.9.9: bytes=4728 time=46ms TTL=52
-Reply from 9.9.9.9: bytes=4728 time=47ms TTL=52
+Reply from 9.9.9.9: bytes=4729 time=52ms TTL=52
 Request timed out.
+Reply from 9.9.9.9: bytes=4729 time=57ms TTL=52
+Reply from 9.9.9.9: bytes=4729 time=43ms TTL=52
 Request timed out.
 Request timed out.
+Reply from 9.9.9.9: bytes=4729 time=56ms TTL=52
+Reply from 9.9.9.9: bytes=4729 time=43ms TTL=52
+Reply from 9.9.9.9: bytes=4729 time=94ms TTL=52
+Reply from 9.9.9.9: bytes=4729 time=54ms TTL=52
+Reply from 9.9.9.9: bytes=4729 time=42ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4729 time=64ms TTL=52
 Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
+    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 41ms, Maximum = 399ms, Average = 140ms
+    Minimum = 39ms, Maximum = 94ms, Average = 54ms
