@@ -1,31 +1,31 @@
-4908
+4909
 
-Thursday, February 17, 2022 5:04:32 AM
+Thursday, February 17, 2022 5:17:40 AM
 
 
-Pinging 1.1.1.1 with 4908 bytes of data:
-Reply from 1.1.1.1: bytes=4908 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=13ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=18ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=16ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=16ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=13ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=14ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=17ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=13ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=16ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=15ms TTL=55
-Reply from 1.1.1.1: bytes=4908 time=17ms TTL=55
+Pinging 1.1.1.1 with 4909 bytes of data:
+Reply from 1.1.1.1: bytes=4909 time=22ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Request timed out.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4909 time=19ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Request timed out.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4909 time=22ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=4909 time=19ms TTL=55
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: TTL expired during reassembly.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 18ms, Average = 15ms
+    Minimum = 19ms, Maximum = 22ms, Average = 20ms
