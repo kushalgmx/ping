@@ -1,31 +1,31 @@
-4907
+4908
 
-Thursday, February 17, 2022 4:59:18 AM
+Thursday, February 17, 2022 5:08:29 AM
 
 
-Pinging 9.9.9.9 with 4907 bytes of data:
-Reply from 9.9.9.9: bytes=4907 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=37ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=38ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=37ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=38ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=40ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=40ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=788ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=35ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=35ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=38ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=42ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=36ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=65ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=39ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=40ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=38ms TTL=52
-Reply from 9.9.9.9: bytes=4907 time=36ms TTL=52
+Pinging 9.9.9.9 with 4908 bytes of data:
+Request timed out.
+Reply from 9.9.9.9: bytes=4908 time=51ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=4908 time=42ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=4908 time=49ms TTL=52
+Request timed out.
+Reply from 9.9.9.9: bytes=4908 time=48ms TTL=52
+Reply from 9.9.9.9: bytes=4908 time=606ms TTL=52
+Reply from 9.9.9.9: bytes=4908 time=41ms TTL=52
+Reply from 9.9.9.9: bytes=4908 time=43ms TTL=52
+Request timed out.
+Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 788ms, Average = 76ms
+    Minimum = 41ms, Maximum = 606ms, Average = 125ms
