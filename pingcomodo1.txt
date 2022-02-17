@@ -1,31 +1,31 @@
-4843
+4844
 
-Wednesday, February 16, 2022 7:11:05 PM
+Wednesday, February 16, 2022 7:22:43 PM
 
 
-Pinging 8.26.56.26 with 4843 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=4843 time=57ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=4843 time=50ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=4843 time=235ms TTL=49
-Request timed out.
-Reply from 8.26.56.26: bytes=4843 time=50ms TTL=49
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 8.26.56.26 with 4844 bytes of data:
+Reply from 8.26.56.26: bytes=4844 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=40ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=39ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=39ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=37ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=48ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=40ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=39ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=38ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=45ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=42ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=43ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=64ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=44ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=250ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=381ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=45ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=56ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=48ms TTL=49
+Reply from 8.26.56.26: bytes=4844 time=42ms TTL=49
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 50ms, Maximum = 235ms, Average = 98ms
+    Minimum = 37ms, Maximum = 381ms, Average = 70ms
